@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/exit_dialog_bg"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/alert_title"
+        android:layout_width="424dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="@string/dvb_tv_confirm_exit"
+        android:textColor="@color/white_txt"
+        android:textSize="30sp" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <Button
+            android:id="@+id/alert_confirm_btn"
+            android:layout_width="228dip"
+            android:layout_height="44dp"
+            android:layout_marginLeft="60dip"
+            android:gravity="center"
+            android:text="@string/ok"
+            android:textSize="27sp" />
+
+        <Button
+            android:layout_marginLeft="40dp"
+            android:id="@+id/alert_cancle_btn"
+            android:layout_width="228dip"
+            android:layout_height="44dp"
+            android:layout_marginRight="41dip"
+            android:gravity="center"
+            android:text="@string/alert_dialog_cancel"
+            android:textSize="27sp" />
+        
+    </LinearLayout>
+
+
+</LinearLayout>

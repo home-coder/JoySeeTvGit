@@ -1,0 +1,387 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginLeft="245dp"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="32dp" >
+
+    <RelativeLayout
+        android:id="@+id/mon"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/mon"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/mon"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+    <View
+            android:visibility="invisible"
+            android:id="@+id/mon_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/mon"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/mon"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/tue"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/mon"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/tue"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/tue"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+     <View
+            android:visibility="invisible"
+            android:id="@+id/tue_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/tue"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/tue"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/wen"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/tue"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/wen"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/wen"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+    <View
+            android:visibility="invisible"
+            android:id="@+id/wen_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/wen"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/wen"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/thu"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/wen"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/thu"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/thu"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+    <View
+            android:visibility="invisible"
+            android:id="@+id/thu_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/thu"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/thu"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/fri"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/thu"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/fri"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/fri"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+        <View
+            android:visibility="invisible"
+            android:id="@+id/fri_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/fri"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/fri"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/sat"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/fri"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/sat"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/sat"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+    <View
+            android:visibility="invisible"
+            android:id="@+id/sat_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/sat"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/sat"
+            android:background="#ffaf50" />
+
+    <RelativeLayout
+        android:id="@+id/sun"
+        android:layout_width="143dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@id/sat"
+        android:focusable="true" >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="12dp"
+            android:text="@string/sun"
+            android:textColor="@color/epg_week_text_unfocus"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/week_big"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:text="@string/sun"
+            android:textColor="@color/yellow"
+            android:textSize="34sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/week_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="6dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/yellow"
+            android:textSize="23sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    
+    <View
+            android:visibility="invisible"
+            android:id="@+id/sun_selected_line"
+            android:layout_width="143dp"
+            android:layout_height="8dp"
+            android:layout_marginTop="-4dp"
+            android:layout_alignLeft="@id/sun"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/sun"
+            android:background="#ffaf50" />
+
+    <!-- <TextView
+        android:id="@+id/time"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right"
+        android:layout_marginRight="45dp"
+        android:gravity="bottom"
+        android:paddingBottom="1dp"
+        android:text="@string/mon"
+        android:textColor="@color/white_txt"
+        android:textSize="24dp" /> -->
+
+</RelativeLayout>

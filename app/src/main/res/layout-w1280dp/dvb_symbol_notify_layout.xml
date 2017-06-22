@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="414dp"
+    android:layout_height="108dp"
+    android:gravity="center"
+    android:background="@drawable/public_dialog_bg"
+    android:id="@+id/parentView">
+    
+    <TextView
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:id="@+id/test"
+        android:layout_width="400dp"
+        android:layout_height="108dp"
+        android:textColor="@color/button_text_focus"
+        android:textSize="27sp"
+        android:gravity="center"
+        android:text="@string/dvb_no_signal"
+        >
+    </TextView>
+</LinearLayout>

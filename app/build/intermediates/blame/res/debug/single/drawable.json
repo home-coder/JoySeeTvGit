@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/order_select.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/order_select.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a7.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a7.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/menu_clitem_expand.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/menu_clitem_expand.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a5.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a5.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/menu_cltiem_shrink.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/menu_cltiem_shrink.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/focus_rectangle.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/focus_rectangle.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/focus.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/focus.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/progress_style_play.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/progress_style_play.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/process_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/process_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/guide_poster.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/guide_poster.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/play_progressbar.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/play_progressbar.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/search_settings_arrows_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/search_settings_arrows_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/transparent.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/transparent.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/list_divider_line.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/list_divider_line.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/progressbar_round.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/progressbar_round.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/menu_clitem_expand_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/menu_clitem_expand_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/program_poster.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/program_poster.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/epg_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/epg_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/group_item_on.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/group_item_on.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a4.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a4.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a2.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a2.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/group_item_off.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/group_item_off.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/button_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/icon_favorite.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/icon_favorite.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a8.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a8.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a6.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a6.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/menu_cltiem_shrink_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/menu_cltiem_shrink_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/notify_dialog_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/notify_dialog_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/a3.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/a3.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable/jump_view_bg.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable/jump_view_bg.xml"
+    }
+]

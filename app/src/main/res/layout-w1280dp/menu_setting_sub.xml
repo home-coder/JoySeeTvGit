@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.joysee.adtv.ui.MenuSettingSub xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="430dp"
+        >
+    <ListView
+        android:id="@+id/setting_menu_sub_list"
+        android:layout_width="fill_parent"
+        android:layout_height="430dp"
+        android:background="#00000000"
+        android:cacheColorHint="#00000000"
+        android:divider="#33FFFFFF"
+        android:dividerHeight="1dp"
+        android:focusable="true"
+        android:nextFocusDown="@id/setting_menu_sub_list"
+        android:listSelector="@drawable/list_selector"
+        android:scrollbarThumbVertical="@drawable/scrollbar_front"
+        android:scrollbarTrackVertical="@drawable/scrollbar_bg" >
+    </ListView>
+    </LinearLayout>
+
+    <!-- <ImageView
+        android:id="@+id/subFocus"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/focus"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:scaleType="fitXY"
+        android:visibility="invisible" /> -->
+     <LinearLayout
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="fill_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="25dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+      
+
+        <ImageButton
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dp"
+            android:background="@drawable/menu_back" />
+
+        <TextView
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="13dp"
+            android:text="@string/back"
+            android:textColor="@color/white"
+            android:textSize="27sp"
+             />
+        
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/menu_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/exit_menu"
+            android:textColor="@color/white"
+            android:textSize="27sp" />
+    </LinearLayout>
+   
+
+</com.joysee.adtv.ui.MenuSettingSub>

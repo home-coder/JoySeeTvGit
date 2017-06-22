@@ -1,0 +1,461 @@
+<resources>
+
+    <!-- permission -->
+    <!-- Permission short label -->
+    <string name="permlab_install_shortcut">install shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_install_shortcut">Allows an app to add
+        shortcuts without user intervention.</string>
+    <!-- Permission short label -->
+    <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_uninstall_shortcut">Allows an app to remove
+        shortcuts without user intervention.</string>
+    <!-- Permission short label -->
+    <string name="permlab_read_settings">read Home settings and shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_read_settings">Allows an app to read the settings and
+        shortcuts in Home.</string>
+    <!-- Permission short label -->
+    <string name="permlab_write_settings">write Home settings and shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_write_settings">Allows an app to change the settings and
+        shortcuts in Home.</string>
+        
+    
+    <!-- be in common use -->
+    <string name="launcher_check_permission_window_title">Please enter the password.</string>
+    <string name="launcher_check_permission_window_ok_btn">ok</string>
+    <string name="launcher_check_permission_window_cancle_btn">cancel</string>
+    <string name="timeview_am">AM</string>
+    <string name="timeview_pm">PM</string>
+    <string name="activity_not_found">I am sorry,start the application error!</string>
+    <string name="alert_dialog_cancel">back</string>
+    <string name="ok">ok</string>
+    <string name="no">cancel</string>
+    <string name="app_name">JoySeeADTV</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dvb_main">ADTV2.0</string>
+    
+    <!-- TV -->
+    <string name="dvb_init_failed">Initialization fails, you need to restart the service</string>
+    <string name="epg_tuner_unable">TV no ​​signal, unable to get to the program information</string>
+    <string name="dvb_audio_index_0">audio0</string>
+    <string name="dvb_audio_index_1">audio1</string>
+    <string name="dvb_audio_index_2">audio2</string>
+    <string name="dvb_nochannel_notify_message">No channel, whether now search?</string>
+    <string name="dvb_nochannel_notify_cancle_btn">cancel</string>
+    <string name="dvb_nochannel_notify_search_btn">search</string>
+    <string name="dvb_update_program">Front-end distributed data change, channel will search again after 5 seconds, please do not power off! </string>
+    <string name="dvb_menu">option menu</string>
+    <string name="dvb_menu_channel_list">channel list</string>
+    <string name="dvb_menu_broadcast_list">broadcasting list</string>
+    <string name="dvb_menu_management">channel management</string>
+    <string name="dvb_favorite_list">favorites list</string>
+    <string name="dvb_set_favorite">collect the channel</string>
+    <string name="dvb_delete_favorite">cancel the collection</string>
+    <string name="dvb_sound_track_all">stereo</string>
+    <string name="dvb_sound_track_left">left channel</string>
+    <string name="dvb_sound_track_right">right channel</string>
+    <string name="dvb_without_this_channel">no %1$s channel</string>
+    <string name="dvb_no_signal">Digital TV No Signal</string>
+    <string name="dvb_no_channel">Watching TV channel, Please first search.</string>
+    <string name="dvb_tv_confirm_exit">Exit the TV play?</string>
+    <string name="dvb_bc_confirm_exit">Exit the radio To play?</string>
+    <string name="epg_confirm_exit">Exit Scheduled ?</string>
+    
+    
+    <!-- channel search -->
+    <string name="search_signal_strength">signal strength：</string>
+    <string name="search_signal_quality">signal quality：</string>
+    <string name="search_start_search">start searching</string>
+    <string name="search_stop_search">stop searching</string>
+    <string name="search_research">new search</string>
+    <string name="search_resset">default settings</string>
+    <string name="search_resset_success">Restore the default values for success</string>
+    <string name="search_progress_text">Progress:</string>
+    <string name="search_completed">Whether the search is completed, immediately to watch TV?</string>
+    <string name="search_stop_save_ask">Whether to save, and instantly watch TV?</string>
+    <string name="search_no_channel">No search to the channel</string>
+    <string name="search_frequency_out">The range of frequencies of 47-862, please enter again</string>
+    <string name="search_frequency_null">Frequency can not for empty, please input again</string>
+    <string name="search_symbolrate_out">Symbol rate for the range of 1500-7200, please enter again</string>
+    <string name="search_symbolrate_null">Symbol rate can not be empty, please input again</string>
+    <string name="search_current_frequency">Current frequency:</string>
+    <string name="search_complete_text">complete</string>
+    <string name="search_result_text">searching result： altogether</string>
+    <string name="search_count_channel_text">channel</string>
+    <string name="search_zero">0</string>
+    <string name="search_tv">TV search</string>
+    <string name="search_select_searh_mode">Please select a mode:</string>
+    <string name="search_fast_search">qucik search</string>
+    <string name="search_fast_search_comment">Click on start searching</string>
+    <string name="search_all_search">all frequency search</string>
+    <string name="search_all_search_comment">Set the search frequency, can search to more channels</string>
+    <string name="search_manual_search">manual search</string>
+    <string name="search_manual_search_commnet">Accurate search</string>
+    
+    <string name="search_fast_search_title">qucik search</string>
+    <string name="search_advanced_option">advanced option</string>
+    <string name="search_channel_count">channel</string>
+    <string name="search_channel_number">channel number</string>
+    <string name="search_channel_name">channel name</string>
+    <string name="search_channel_type">channel type</string>
+    <string name="search_channel_frequency">in the frequency</string>
+    <string name="search_manual_title">manual search</string>
+    <string name="search_frequency">frequency:</string>
+    <string name="search_khz">Khz</string>
+    <string name="search_qam">QAM</string>
+    <string name="search_kbps">Kbps</string>
+    <string name="search_symbol_rate">symbol rate:</string>
+    <string name="search_modulate">modulate：</string>
+    <string name="search_sixteen_qam">16 QAM</string>
+    <string name="search_sixtyfour_qam">64 QAM</string>
+    <string name="search_onetwoeight_qam">128 QAM</string>
+    <string name="search_towfivesix_qam">256 QAM</string>
+    <string name="search_cancle">cancel</string>
+    <string name="search_fast_search_advanced_title">Set the channel</string>
+    <string name="search_settings_title">Please set channel properties:</string>
+    <string name="search_all_settings_title">Please set up searching symbol rate:</string>
+    <string name="search_full_search_advanced_title">Channel search/Full frequency search/Advanced Settings</string>
+    <string name="search_full_search_title">Full frequency search</string>
+    <string name="search_save">Save</string>
+    <string name="search_save_success">Save success</string>
+    <string name="search_channel_list_tv">Digital TV</string>
+    <string name="search_channel_list_bc">Digital radio</string>
+    <string name="search_dialog_exit_message">Are you sure to exit?</string>
+    <string name="search_dialog_confirm">OK</string>
+    <string name="search_dialog_cancel">Cancel</string>
+    <string name="search_dialog_title">Prompt </string>
+    <string name="search_symbolrate_out_range">Symbol rate only to: 6875</string>
+    <string name="search_channel_count_title">Total to search</string>
+    <string name="search_is_save">Save search results, and instantly watch TV?</string>
+    <string name="search_tv_count">TV channels</string>
+    <string name="search_bc_count">Radio channel</string>
+    <string name="search_64">64</string>
+    <string name="search_128">128</string>
+    <string name="search_256">256</string>
+    
+    
+
+    <!-- epg -->
+    <string name="program_guide_switch_channel_text">Switching the channel type</string>
+    <string name="program_guide_switch_date_text">Change the date</string>
+    <string name="program_guide_prompts">No search to program information of the channel </string>
+    <string name="program_guide_progressbar_title">Loading the latest program information, please wait</string>
+    <string name="program_guide_all_channel">All channels</string>
+    <string name="program_guide_toast_before">Only search the program to the current time and later</string>
+    <string name="program_guide_toast_after">Only search for the content of this week </string>
+    <string name="program_guide_week">week</string>
+    <string name="program_guide_nochannel">No channel, please search the channel</string>
+    <!-- 频道分类 -->
+    <string name="program_guide_centre_hd">CCTV HD</string>
+    <string name="program_guide_local_star_tv">Satellite TV</string>
+    <string name="program_guide_fight_type">Martial arts</string>
+    <string name="program_guide_emotion_type">Romance and Love</string>
+    <string name="program_guide_science_type">Science and technology</string>
+    <string name="program_guide_no_channel">Don not have this type of channel</string>
+    <!-- 预约 -->
+    <string name="program_reverse_alert">Reservation</string>
+    <string name="program_reverse_alert_cancel">Cancel Reservation</string>
+    <string name="program_reverse_alert_cancel_success">Cancel success</string>
+    <string name="program_reverse_alert_message">Whether the appointment of the program?</string>
+    <string name="program_reserve_title">Reservation list</string>
+    <string name="program_reserve_list_cancel">Whether to cancel the appointment?</string>
+    <string name="program_reserve_alert_text_dismiss_window_text">Will play after</string>
+    <string name="program_reserve_alert_text_title">Reservation reminders:</string>
+    <string name="program_reserve_alert_watch_button_text">Play</string>
+    <string name="program_reserve_alert_cancel_button_text">Cancel</string>
+    <string name="program_reserve_success">Successful program reservation</string>
+    <string name="program_reserve_failed">Program has reservation</string>
+    <string name="program_reserve_no_program_text">No Reservation</string>
+    <string name="program_reserve_time_out">Program has expired, can not be reserved</string>
+    <string name="program_reserve_max_text">Up to 40 programs can only reservation</string>
+    <string name="program_reserve_delete_or_reserve">Delete / Reservation</string>
+
+
+    <!-- CA提示信息 -->
+    <string name="ca_message_cancel_type">Cancel the current display</string>
+    <string name="ca_message_badcard_type">Does not recognize the card</string>
+    <string name="ca_message_expicard_type">Smart card expired, please replace a new card</string>
+    <string name="ca_message_insertcard_type">Scrambled program, insert the smart card</string>
+    <string name="ca_message_nooper_type">The program does not exist in the card carrier</string>
+    <string name="ca_message_blackout_type">Conditions ban</string>
+    <string name="ca_message_outworktime_type">Current time is set to not watch</string>
+    <string name="ca_message_watchlevel_type">Program level is higher than the set level viewing</string>
+    <string name="ca_message_pairing_type">Set-top box does not correspond to the smart card</string>
+    <string name="ca_message_noentitle_type">Not authorized</string>
+    <string name="ca_message_decryptfail_type">Program decoding failure</string>
+    <string name="ca_message_nomoney_type">Insufficient amount of the card</string>
+    <string name="ca_message_errregion_type">Regional incorrect</string>
+    <string name="ca_message_needfeed_type">Son card Needs corresponding master card, insert the master card</string>
+    <string name="ca_message_errcard_type">Smart card check fails, please contact the operator</string>
+    <string name="ca_message_update_type">Smart card upgrade, do not pull the card or shutdown</string>
+    <string name="ca_message_lowcardver_type">Please upgrade smart card</string>
+    <string name="ca_message_viewlock_type">Do not frequent switching channels</string>
+    <string name="ca_message_maxrestart_type">Smart Card dormant Please reboot after 5 minutes</string>
+    <string name="ca_message_freeze_type">Smart cards have been frozen, please contact the operator</string>
+    <string name="ca_message_callback_type">Smart card has been suspended, please return to the operator viewership records</string>
+    <string name="ca_message_stblocked_type">Please restart the STB</string>
+    <string name="ca_message_stbfreeze_type">STB is frozen</string>
+    <string name="ca_charge_interval_year">"year"</string>
+    <string name="ca_charge_interval_month">"month"</string>
+    <string name="ca_charge_interval_day">"day"</string>
+
+    <!-- 智能卡 -->
+    <string name="config_card_stbid">STBID：</string>
+    <string name="config_card_loader">LOADER Version：U-Boot 2010.06</string>
+    <string name="config_card_update_time">Upgrade Time：%1$s</string>
+    <string name="config_card_update_state">Upgrade Status：%1$s</string>
+    <string name="config_card_ca_version_text">CA version：%1$s</string>
+    <string name="ca_setting_title_text">Smart Card</string>
+    <string name="ca_setting_description_text">Please set up a smart card properties:</string>
+    <string name="ca_setting_work_time_description">Please set working hours:</string>
+    <string name="ca_setting_watch_level_description">Please enter the viewing level:</string>
+    <string name="ca_setting_author_info_description">Enter the ID of the operator:</string>
+    <string name="ca_setting_modify_password_description">Please set a password:</string>
+    <string name="ca_setting_author_info_help">Here you can view licensing information</string>
+    <string name="config_card_number">The machine card：</string>
+    <string name="config_work_time">Sessions</string>
+    <string name="config_authorise_message">Authorization information</string>
+    <string name="config_modify_password">Change Password</string>
+    <string name="config_card_info_text">Information</string>
+    <string name="config_work_time_start">Start working time:</string>
+    <string name="config_work_time_end">The end of the working time:</string>
+    <string name="config_work_time_save_and_back">Save</string>
+    <string name="config_work_time_save_success">Working hours set successfully</string>
+    <string name="config_work_time_input_passward">Please enter a password:</string>
+    <string name="config_work_time_hint">0</string>
+    <string name="config_work_time_hour">hour</string>
+    <string name="config_work_time_minute">Minute</string>
+    <string name="config_work_time_second">Second</string>
+    <string name="config_watch_level">Watch Level</string>
+    <string name="config_watch_level_age">Age limit:</string>
+    <string name="config_watch_level_age_up">Over %1$s year old</string>
+    <string name="config_watch_level_set_success">Watch level setting success</string>
+    <string name="config_authorise_program_number">Authorization program number</string>
+    <string name="config_authorise_end_time">Deadline</string>
+    <string name="config_authorise_can_record">Whether you can record</string>
+    <string name="config_authorise_operate_id">Select the operator ID：</string>
+    <string name="config_authorise_operate_feature">Operators user characteristics：%1$s</string>
+    <string name="config_modify_password_old">Old Password：</string>
+    <string name="config_modify_password_new">New password：</string>
+    <string name="config_modify_password_new_confirm">Confirm New Password：</string>
+    <string name="config_midify_password_input_wrong">Password should be 6</string>
+    <string name="config_midify_password_success">Change Password success</string>
+    <string name="config_midify_old_wrong">Original password input error</string>
+    <string name="config_midify_card_not_finded">Smart card is not present or is invalid cards</string>
+    <string name="config_midify_data_not_find">No carriers</string>
+    <string name="config_midify_unknow_wrong">Unknown error</string>
+    <string name="config_midify_password_input_compare">Two different new password</string>
+    <string name="config_modify_password_save">Save</string>
+    <string name="config_modify_password_cancel">Cancel</string>
+    <string name="config_input_wrong">Input errors, please check whether number of hours no more than 23, number of minutes does not more than 59</string>
+    <string name="config_getting_card_number">Retrieving card number, please wait...</string>
+    <string name="config_auth_yes_record">Yes</string>
+    <string name="config_auth_no_record">No</string>
+    <string name="launcher_logo_textview_text">福州电视台</string>
+    <string name="timeview_dayofweek_1">Sun</string>
+    <string name="timeview_dayofweek_2">Mon</string>
+    <string name="timeview_dayofweek_3">Tue</string>
+    <string name="timeview_dayofweek_4">Wed</string>
+    <string name="timeview_dayofweek_5">Thu</string>
+    <string name="timeview_dayofweek_6">Fri</string>
+    <string name="timeview_dayofweek_7">Sat</string>
+    
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wen">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="launcher_allapps_page_title">My App</string>
+    <string name="launcher_weather_fail_hint">Get weather information failed</string>
+    <string name="ca_input_password_error">Enter the password is incorrect, please re-enter!</string>
+    <string name="ca_modify_password_error">Failed to change password</string>
+    <string name="ca_modify_worktime_error">Session setup failed</string>
+    <string name="ca_modify_worktime_error0">Start time must be less than the end time</string>
+
+    <!-- CA邮件 -->
+    <string name="email_title_str">Messages</string>
+    <string name="email_page_up_str">Previous</string>
+    <string name="email_page_down_str">Next</string>
+    <string name="email_space_info_str">Total %1$s  "messages   There "  %2$s   space</string>
+    <string name="email_deleteall_str">Remove All</string>
+    <string name="email_item_title">"Message header"</string>
+    <string name="email_item_title_time">Time</string>
+    <string name="email_item_title_type">Message type</string>
+    <string name="email_dialog_back_str">Return</string>
+    <string name="email_dialog_delete_str">Remove</string>
+    <string name="email_dialog_positive_str">OK</string>
+    <string name="email_dialog_negative_str">Cancel</string>
+    <string name="email_dialog_content_str">"        "%1$s</string>
+    <string name="email_dialog_title_str">"Message header"</string>
+    <string name="email_dialog_time_str">"Mail time"</string>
+    <string name="email_type_important">Important</string>
+    <string name="email_type_common">Common</string>
+    <string name="email_bottom_tips">Press the page key to view the message   press the OK button flip</string>
+    <string name="email_ask_delete_all">Remove All messages?</string>
+    <string name="email_nospace_tips">Space is full, please remove the message!</string>
+    <string name="dvb_main_fingerinfo_test">123456</string>
+    <!-- CA 升级 -->
+    <string name="ca_update_success">Upgrade successful</string>
+    <string name="ca_update_false">Upgrade Fails</string>
+    <string name="ca_noupdate">Not be upgraded</string>
+    <string name="ca_update_rate">Progress:%1$d/100</string>
+    <string name="ca_update_msg">Smart card upgrade, do not pull the card on or off!</string>
+    <string name="ca_update_msg0">Upgrade data has been received</string>
+    <string name="ca_update_type1">Upgrading Data reception</string>
+    <string name="ca_update_type1_end">Upgrade data has been received</string>
+    <string name="ca_update_type2">Smart card upgrade</string>
+    <string name="ca_update_type2_end">The upgrade is complete</string>
+    <string name="menu_settings_screen_mode_original">4：3</string>
+    <string name="menu_settings_screen_mode_filling">16：9</string>
+    <string name="menu_settings_screen_mode_auto">Auto</string>
+    <string name="menu_settings_audip_mode_stereo">Stereo</string>
+    <string name="menu_settings__audio_mode_left">Left</string>
+    <string name="menu_settings_audio_mode_right">Right</string>
+    <string name="menu_settings_audio_index">Audio</string>
+    <string name="menu_settings_farivator_channel">Channel</string>
+    <string name="menu_settings_reservation_channel">  Program</string>
+    <string name="menu_settings_channel">Channels</string>
+    
+    <!-- mini_epg_info -->
+    <string name="mini_epg_info_time">00:00:00</string>
+    <string name="mini_epg_info_track_souce">Stereo</string>
+    <string name="mini_epg_info_audio_souce">Audio 0</string>
+
+    
+    <string name="actor">Starring:</string>
+    <string name="type">Style:</string>
+    <string name="about">Summary:</string>
+    <string name="playout">Play:</string>
+    <string name="presenter">Host:</string>
+    <string name="from_intent">Data from the Internet</string>
+    
+
+    <!-- menu -->
+    <string name="menu_titile_program_guide">EPG</string>
+    <string name="menu_titile_channel_list">Channel List</string>
+    <string name="menu_titile_settings">Operate</string>
+    <string name="menu_pg_live_guide">TV Classification</string>
+    <string name="menu_pg_week_guide">Scheduled</string>
+    <string name="menu_reservation_back">Appointment Management</string>
+    <string name="menu_fav_back">Favorite Channel</string>
+    <string name="menu_system_info_back">System Information</string>
+    <string name="menu_sys_hardware_title">Hardware Basic Information</string>
+    <string name="menu_sys_cpu_title">CPU:</string>
+    <string name="menu_sys_mem_title">Memory:</string>
+    <string name="menu_sys_wifi_title">ip Address:</string>
+    <string name="menu_sys_storage_title">Storage usage</string>
+    <string name="menu_sys_inner_storage_title">Internal storage:</string>
+    <string name="menu_sys_remain">Surplus</string>
+    <string name="menu_sys_available">Available</string>
+    <string name="menu_sys_sdcard_storage_title">SD Card:</string>
+    <string name="menu_sys_software_title">Software Version</string>
+    <string name="menu_sys_android_versition_title">Android Version:</string>
+    <string name="menu_sys_kernel_versition_title">Kernel Version:</string>
+    <string name="menu_fav_add_success">Bookmarked</string>
+    <string name="menu_fav_remove_success">Canceled Favorites</string>
+    <string name="menu_fav_over_max_count">Can collect up to 5 favorite channels</string>
+    <string name="menu_setting_sound">Channel</string>
+	<string name="menu_setting_audio">Sound</string>
+   	<string name="menu_setting_screen">Menu</string>
+    <string name="close_bc_channal">Close broadcast channels</string>
+    <string name="no_bc_channal">No broadcasts</string>
+    <string name="no_program_info">No program information</string>
+    <string name="expand_bc_channel">Expand the broadcast channel</string>
+    
+    <!-- program guide -->
+    <string name="programguide_title">"  TV Category"</string>
+    <string name="programguide_nochannel">" No program information "</string>
+    <string name="programguide_loading">Load......</string>
+    <string name="week_epg_loading">Program information is loading, please wait......</string>
+	<string name="epg_titile">Scheduled</string>    
+	<string name="epg_tips_ok_text">Scheduled program / ​​If the program is being broadcast, OK directly watch</string>
+	<string name="epg_tips_left_right_text">Switching Channels</string>
+	
+	<string name="channellist_guide">Switch Menu</string>
+	<string name="return_back">Return</string>
+	<string name="channlelist_trun_page">Page</string>
+	
+	<string name="exit_menu">Quit</string>
+	<string name="menu">Settings</string>
+	<string name="program_guide">EPG</string>
+	
+	<string name="menu_sub_title_pic">Settings> Aspect Ratio</string>
+	<string name="menu_sub_title_reversion">Settings> reservation management</string>
+	<string name="menu_sub_title_audio">Settings> Sound</string>
+	<string name="menu_sub_title_audio_index">Settings>Audio</string>
+	<string name="menu_sub_title_fav">EPG>Favorite Channels</string>
+	<string name="progcategory_nochannel">This classification no program</string>
+	<string name="channel">Channel:</string>
+	<string name="program">Program:</string>
+	
+	<!-- 时移 -->
+    <string name="seekto">turn to:</string>
+    <string name="maohao">：</string>
+    <string name="play_state"></string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="play_forward">Fast Forward</string>
+    <string name="play_back">Rewind</string>
+    <string name="speed">%1$sX</string>
+    <string name="play_name">Name：%1$s</string>
+    <string name="operate_help">Operation：</string>
+    <string name="play_left_right_help">Press "Left" or "Right" perform fast forward and rewind；</string>
+    <string name="play_up_down_help">Press Up or Down keys exhale jump interface；</string>
+    <string name="play_ok_help">Press "OK" Performing Pause and play</string>
+    <string name="jump_left_right_help">Press "Left" or "Right" to move the focus</string>
+    <string name="jump_up_down_help">Press Up or Down keys to change the time</string>
+    <string name="jump_ok_help">Press "OK" to start</string>
+    <string name="jump_num_key">Press the number keys to enter the time</string>
+    <string name="jump_back_key">Press the Back button to cancel jump</string>
+    <string name="jump_lenth_key">Range：%1$dyear%2$dmonth%3$dday%4$dhour%5$dminute%6$dsecond---%7$dyear%8$dmonth%9$dday%10$dhour%11$dminute%12$dsecond</string>
+    <string name="jump_input">Input error, please re-enter!</string>
+    <string name="jump_input_year">Please enter the Year!</string>
+    <string name="jump_input_month">Please enter a month!</string>
+    <string name="jump_input_day">Please enter the dates!</string>
+    <string name="jump_input_hour">Please enter the hour!</string>
+    <string name="jump_input_minute">Please enter the minutes！</string>
+    <string name="jump_input_second">Please enter a second!</string>
+    <string name="jump_input_err">The time you entered is out of range, please re-enter!</string>
+    <string name="jump_input_year_err">Year you entered is out of range, please re-enter!</string>
+    <string name="jump_input_month_err">Please enter a valid month!</string>
+    <string name="jump_input_day_err">Please enter a valid date！</string>
+    <string name="jump_input_hour_err">Please enter a valid hour!</string>
+    <string name="jump_input_minute_err">Please enter a valid minute!</string>
+    <string name="jump_input_second_err">Please enter a valid seconds！</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="hour">hour</string>
+    <string name="minute">minute</string>
+    <string name="second">second</string>
+    <drawable name="seekbar_bg">#444444</drawable>
+    <drawable name="seekbar_progress_bg">#FFAF50</drawable>
+    <drawable name="seekbar_secondary_progress_bg">#B1B1B1</drawable>
+    <string name="red_string">Key to select the time to watch</string>
+    <string name="exit">Quit</string>
+    <string name="time_shift">Time shift</string>
+    <string name="confirm_exit_timeshift">Exit the time-shift playback?</string>
+    <!-- 回看 -->
+    <string name="page_loading">Loading, please wait...</string>
+    <string name="joysee_prompt">Joysee Tips</string>
+    <string name="look_back">Looking back</string>
+    
+    <string name="error_main_fre">Frequency point parameter error, please re-search platform</string>
+    <string name="error_main_lock">Frequency point locking failure</string>
+    <string name="error_main_timeout">No search to program information</string>
+    <string name="epg_today">Today</string>
+    <string name="epg_switch_date">Switch Date</string>
+        <string name="format_date">MM-dd</string>
+    
+    <string name="timeshift_to_tv">Switching to Live TV, please wait...</string>
+
+
+    <string name="hd">HD</string>
+    <string name="HD">HD</string>
+    
+</resources>

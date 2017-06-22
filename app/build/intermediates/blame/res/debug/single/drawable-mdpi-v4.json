@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_pg_nofocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_pg_nofocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_faovrite_play_now.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/icon_faovrite_play_now.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_cancel_unfocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_cancel_unfocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_settings_nofocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_settings_nofocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_background_mid.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_background_mid.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_include_button_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/alert_dialog_include_button_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_back.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_back.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_listview_selected_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_listview_selected_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_email_icon.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_email_icon.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_down_list_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_down_list_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/setting_back.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/setting_back.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progressbar_bg.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progressbar_bg.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_setting_back.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_setting_back.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/psd_dialog_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/psd_dialog_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/epg_menu_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/epg_menu_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_comment_color.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_comment_color.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_et_normal.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_et_normal.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_no_button_9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/alert_dialog_no_button_9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_item_title_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_item_title_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_settings_arrows_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_settings_arrows_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_image.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_image.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_icon.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_button_default.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_button_default.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrows_right.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/arrows_right.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/text_white_green_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/text_white_green_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_text_color_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_text_color_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_text_color.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/button_text_color.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/epg_listview_focused.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/epg_listview_focused.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/focus.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/focus.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_icon.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_icon.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/scroll_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/scroll_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_et_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_et_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_cancel_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_cancel_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_listitem_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_listitem_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_focus_tag_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_focus_tag_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_button_default_selected.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_button_default_selected.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_text_color.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_text_color.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/epg_listview_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/epg_listview_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_channel_info_dolby.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_channel_info_dolby.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/order.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/order.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_progressbar_layout_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_progressbar_layout_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_no_button_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/alert_no_button_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_spinner_item_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_spinner_item_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/epg_listview_selected.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/epg_listview_selected.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/linearlayout_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/linearlayout_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_cl_nofocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_cl_nofocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/text_grey_green_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/text_grey_green_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_reservation_clock_icon_unfocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_reservation_clock_icon_unfocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_channel_info_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_channel_info_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/program_alert_clock.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/program_alert_clock.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_et_selected.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_et_selected.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_right.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_right.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_menu_selected.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_menu_selected.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_money.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/icon_money.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/be_about_to_icon.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/be_about_to_icon.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrows_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/arrows_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_dropdown_listitem_background_focus.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_dropdown_listitem_background_focus.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/scroll_front.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/scroll_front.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_progressbar.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/play_progressbar.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_dialog_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_dialog_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/public_dialog_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/public_dialog_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_settings_arrows_unfocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_settings_arrows_unfocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_background_right.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_background_right.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_icon_readed.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_icon_readed.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/text_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/text_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_pg_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_pg_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/exit_dialog_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/exit_dialog_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_icon_no_read.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_icon_no_read.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bc_icon.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/bc_icon.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ca_psd_wrong.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/ca_psd_wrong.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_dropdown_listitem_background_transition.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_dropdown_listitem_background_transition.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_add_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_add_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_cl_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_cl_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_icon_canceled.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_icon_canceled.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_dropdown_listitem_background.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_dropdown_listitem_background.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_menu_list_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_menu_list_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/scrollbar_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/scrollbar_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_channel_info_advert.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_channel_info_advert.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_background_left.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_background_left.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_bc_main_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_bc_main_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrows_left.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/arrows_left.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_lock.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/icon_lock.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_favorite.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/icon_favorite.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_item_selected.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/spinner_item_selected.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_no_button.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/alert_dialog_no_button.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_listview_divider.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_listview_divider.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_title_settings_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_title_settings_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_menu_normal.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_menu_normal.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_mid.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/progress_mid.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_reservation_clock_icon_focus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_reservation_clock_icon_focus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/channel_icon_test.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/channel_icon_test.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_button_default_pressed.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_button_default_pressed.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_button_default_normal.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_button_default_normal.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_down_list_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_down_list_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dvb_vertical_menu_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/dvb_vertical_menu_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_listview_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_listview_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_list_selector.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/email_list_selector.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_fav_add_unfocus.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/menu_fav_add_unfocus.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/epg_menu_select_bg.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/epg_menu_select_bg.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_menu_bg.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/search_menu_bg.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/scrollbar_front.9.png",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/drawable-mdpi/scrollbar_front.9.png"
+    }
+]

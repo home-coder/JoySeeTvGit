@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="477dip"
+    android:layout_height="115dip"
+    android:id="@+id/config_dialog_layout"
+    android:gravity="center"
+    android:background="@drawable/public_dialog_bg"
+    >
+    <TextView 
+        android:layout_width="477dp"
+        android:layout_height="115dp"
+        android:id="@+id/notify_dialog_tv"
+        android:gravity="center"
+        android:textSize="27sp"
+        android:textColor="@color/white"
+        />
+</RelativeLayout>

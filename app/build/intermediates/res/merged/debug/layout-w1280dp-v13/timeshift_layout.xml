@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/transparent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    >
+    <ImageView
+        android:id="@+id/look_back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/lookback"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="86dp"
+        android:visibility="gone"
+        />
+    <LinearLayout 
+        android:id="@+id/jump_view"
+        android:layout_width="545dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/jump_view_bg"
+        android:layout_alignRight="@+id/control_view"
+        android:layout_marginRight="122dp"
+        android:layout_above="@+id/control_view"
+        android:layout_marginBottom="-50dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center" 
+        android:visibility="visible"
+        >
+        <include   layout="@layout/timeshift_jump_layout"/> "
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/control_view"
+        android:orientation="vertical"    
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="20dp"
+        android:gravity="center_vertical"
+        android:background="@color/transparent"
+        android:layout_centerHorizontal="true"
+        >
+        <include   layout="@layout/play_controller"/> "
+    </LinearLayout>
+    
+</RelativeLayout>

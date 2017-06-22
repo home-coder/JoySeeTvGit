@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.joysee.adtv.ui.ChannelNumView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dvb_channelnum_View"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:layout_marginRight="90dip"
+    android:layout_marginTop="74dip"
+    android:gravity="center"
+    android:visibility="invisible"
+    >
+    <ImageView 
+        android:layout_width="60dip"
+        android:layout_height="86dip"
+        android:src="@drawable/dvb_channel_nums"
+        android:id="@+id/dvb_channel_number_1"
+        />
+    <ImageView 
+        android:layout_width="60dip"
+        android:layout_height="86dip"
+        android:src="@drawable/dvb_channel_nums"
+        android:id="@+id/dvb_channel_number_2"
+        />
+    <ImageView 
+        android:layout_width="60dip"
+        android:layout_height="86dip"
+        android:src="@drawable/dvb_channel_nums"
+        android:id="@+id/dvb_channel_number_3"
+        />
+</com.joysee.adtv.ui.ChannelNumView>

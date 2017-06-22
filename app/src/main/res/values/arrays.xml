@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- menu item -->
+    <string-array name="adjust_items">
+        <item>channel list</item>
+        <item>EPG</item>
+        <item>reservation list</item>
+        <item>favorite channel</item>
+        <item>picture settings</item>
+        <item>channel switching</item>
+        <item>audio switch</item>
+        <item>smart card resource manage</item>
+        <item>channel search</item>
+        <item>broadcasting program</item>
+    </string-array>
+    
+    <string-array name="program_guide">
+        <item>Week Schedule</item>
+        <item>Favorite Channel</item>
+        <item>All Channel</item>
+        <item>HDTV</item>
+        <item>CCTV</item>
+        <item>BeiJin Channel</item>
+        <item>Satellite Channel</item>
+    </string-array>
+
+    <string-array name="soundtrack_items">
+        <item>stereo</item>
+        <item>left channel</item>
+        <item>right channel</item>
+    </string-array>
+
+    <string-array name="screen_items">
+        <item>adaptive</item>
+        <item>4:3</item>
+        <item>16:9</item>
+    </string-array>
+
+    <string-array name="language_items">
+        <item>audio0</item>
+        <item>audio1</item>
+        <item>audio2</item>
+    </string-array>
+
+    <string-array name="adjust_method">
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+    </string-array>
+    
+    <string-array name="adjust_items_broadcast">
+        <item>broadcasting list</item>
+        <item>favorite channel</item>
+        <item>channel switching</item>
+        <item>audio switch</item>
+        <item>TV program</item>
+    </string-array>
+    
+    <string-array name="adjust_items_setting_menu">
+        <item>aspect ratio</item>
+        <!-- <item>favorite channel</item> -->
+        <item>appointment</item>
+        <!-- <item>brightness</item> -->
+        <item>sound tract</item>
+        <!-- <item>audio</item> -->
+        <!-- <item>search</item>
+        <item>smart card</item>
+        <item>system message</item> -->
+        <!-- <item>syetem message</item> -->
+    </string-array>
+</resources>

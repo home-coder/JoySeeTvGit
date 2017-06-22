@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentView"
+    android:layout_width="680dp"
+    android:layout_height="178dip"
+    android:gravity="center"
+    android:background="@drawable/public_dialog_bg" >
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/notify_text"
+        android:layout_width="580dp"
+        android:layout_height="178dp"
+        android:textColor="@color/epg_white_txt"
+        android:textSize="30sp" >
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_setting_sub.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_setting_sub.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/updateprogress_ca.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/updateprogress_ca.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_main.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_main.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_down_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_down_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/order_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/order_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_channel_category.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_channel_category.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_fast_search_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_fast_search_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_authoriseinfo_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_authoriseinfo_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_authoriseinfo_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_authoriseinfo_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/channelnum_textview.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/channelnum_textview.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/notify_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/notify_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_work_time_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_work_time_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_channel_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_channel_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/email_delete_ask_dialog.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/email_delete_ask_dialog.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/timeshift_select_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/timeshift_select_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/launcher_notify_message_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/launcher_notify_message_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/email_main.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/email_main.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_ca_notify_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_ca_notify_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_channelinfo_view.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_channelinfo_view.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_settings_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_settings_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_modify_password_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_modify_password_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/program_reserves_alert.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/program_reserves_alert.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/order_result_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/order_result_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/programguide_topmenu.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/programguide_topmenu.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_channel_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_channel_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_channelwindow_listitem.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_channelwindow_listitem.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_fast_search_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_fast_search_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_program_guide.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_program_guide.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_program_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_program_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_watch_level_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_watch_level_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/email_dialog.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/email_dialog.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_mini_epg_info_sp.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_mini_epg_info_sp.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_channelnum_view.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_channelnum_view.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_time_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_time_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/cell_view.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/cell_view.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_mini_epg_channel_select.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_mini_epg_channel_select.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_nochannel_notify.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_nochannel_notify.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/alert_dialog_no_button_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/alert_dialog_no_button_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_channel_list_view.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_channel_list_view.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_view.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_view.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_favorite_listitem.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_favorite_listitem.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_down_list_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_down_list_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/look_back_activity.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/look_back_activity.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_channel_category_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_channel_category_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_volumechannel_audioindex_notify.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_volumechannel_audioindex_notify.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_down_list_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_down_list_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/program_reserves_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/program_reserves_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_menu_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/error_channel_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/error_channel_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/spinner_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/spinner_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/time_shift_activity.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/time_shift_activity.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/spinner_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/spinner_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/liveguide_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/liveguide_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/edit_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/edit_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_channel_list.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_channel_list.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/ca_cardinfo_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/ca_cardinfo_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_mini_epg_info_channel.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_mini_epg_info_channel.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_progress_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/timeshift_not_start_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/timeshift_not_start_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/pagerview_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/pagerview_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/alert_dialog_include_button_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/alert_dialog_include_button_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/alert_exit_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/alert_exit_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/test_activity.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/test_activity.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_setting_sound.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_setting_sound.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_channel_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_channel_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/blank.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/blank.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/timeshift_exit_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/timeshift_exit_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_program_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_program_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_reservation_list.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_reservation_list.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_guide.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_guide.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_favorite_list_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_favorite_list_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_advanced_option_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_advanced_option_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_mini_epg_info.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_mini_epg_info.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/epg_weeks.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/epg_weeks.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_all_menu_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_all_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_menu_list_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_menu_list_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_mini_epg_channel_select_center.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_mini_epg_channel_select_center.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/progguide_menu_listitem.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/progguide_menu_listitem.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/alert_dialog_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/alert_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/email_listview_item.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/email_listview_item.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_setting.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_setting.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/search_manual_search_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/search_manual_search_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/timeshift_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/timeshift_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/play_controller.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/play_controller.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/dvb_symbol_notify_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/dvb_symbol_notify_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/timeshift_jump_layout.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/timeshift_jump_layout.xml"
+    },
+    {
+        "merged": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/build/intermediates/res/merged/debug/layout-w1280dp-v13/menu_system_info.xml",
+        "source": "/home/jiangxiujie/AndroidStudioProjects/JoySeeTvGit/app/src/main/res/layout-w1280dp/menu_system_info.xml"
+    }
+]

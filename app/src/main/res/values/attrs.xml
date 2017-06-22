@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="height" format="integer" />
+    <declare-styleable name="Item">
+
+        <attr name="count" format="integer" />
+        <attr name="isepg" format="boolean" />
+        <attr name="weight" format="integer" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,544 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* proguard-project.txt
+* proguard.flags
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.2.2.jar => com.google.code.gson:gson:2.2.2
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.2.jar => version 2.2.2 in com.google.code.gson:gson:2.2.2
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* lint.xml => app/lint.xml
+* res/ => app/src/main/java/
+* res/anim/fade.xml => app/src/main/resources/anim/fade.xml
+* res/anim/layout_animation_zoom.xml => app/src/main/resources/anim/layout_animation_zoom.xml
+* res/anim/layout_grid_fade.xml => app/src/main/resources/anim/layout_grid_fade.xml
+* res/anim/push_left_in.xml => app/src/main/resources/anim/push_left_in.xml
+* res/anim/push_left_out.xml => app/src/main/resources/anim/push_left_out.xml
+* res/anim/push_right_in.xml => app/src/main/resources/anim/push_right_in.xml
+* res/anim/push_right_out.xml => app/src/main/resources/anim/push_right_out.xml
+* res/anim/zoom_enter.xml => app/src/main/resources/anim/zoom_enter.xml
+* res/drawable-hdpi/ic_action_search.png => app/src/main/resources/drawable-hdpi/ic_action_search.png
+* res/drawable-hdpi/ic_launcher.png => app/src/main/resources/drawable-hdpi/ic_launcher.png
+* res/drawable-ldpi/ic_launcher.png => app/src/main/resources/drawable-ldpi/ic_launcher.png
+* res/drawable-mdpi/alert_dialog_include_button_bg.png => app/src/main/resources/drawable-mdpi/alert_dialog_include_button_bg.png
+* res/drawable-mdpi/alert_dialog_no_button.png => app/src/main/resources/drawable-mdpi/alert_dialog_no_button.png
+* res/drawable-mdpi/alert_dialog_no_button_9.png => app/src/main/resources/drawable-mdpi/alert_dialog_no_button_9.png
+* res/drawable-mdpi/alert_no_button_bg.png => app/src/main/resources/drawable-mdpi/alert_no_button_bg.png
+* res/drawable-mdpi/app_icon.png => app/src/main/resources/drawable-mdpi/app_icon.png
+* res/drawable-mdpi/arrows_left.png => app/src/main/resources/drawable-mdpi/arrows_left.png
+* res/drawable-mdpi/arrows_right.png => app/src/main/resources/drawable-mdpi/arrows_right.png
+* res/drawable-mdpi/arrows_selector.xml => app/src/main/resources/drawable-mdpi/arrows_selector.xml
+* res/drawable-mdpi/bc_icon.png => app/src/main/resources/drawable-mdpi/bc_icon.png
+* res/drawable-mdpi/be_about_to_icon.png => app/src/main/resources/drawable-mdpi/be_about_to_icon.png
+* res/drawable-mdpi/button_text_color.xml => app/src/main/resources/drawable-mdpi/button_text_color.xml
+* res/drawable-mdpi/ca_psd_wrong.png => app/src/main/resources/drawable-mdpi/ca_psd_wrong.png
+* res/drawable-mdpi/channel_icon_test.png => app/src/main/resources/drawable-mdpi/channel_icon_test.png
+* res/drawable-mdpi/dvb_bc_main_bg.png => app/src/main/resources/drawable-mdpi/dvb_bc_main_bg.png
+* res/drawable-mdpi/dvb_button_default.xml => app/src/main/resources/drawable-mdpi/dvb_button_default.xml
+* res/drawable-mdpi/dvb_button_default_normal.9.png => app/src/main/resources/drawable-mdpi/dvb_button_default_normal.9.png
+* res/drawable-mdpi/dvb_button_default_pressed.9.png => app/src/main/resources/drawable-mdpi/dvb_button_default_pressed.9.png
+* res/drawable-mdpi/dvb_button_default_selected.9.png => app/src/main/resources/drawable-mdpi/dvb_button_default_selected.9.png
+* res/drawable-mdpi/dvb_channel_info_advert.png => app/src/main/resources/drawable-mdpi/dvb_channel_info_advert.png
+* res/drawable-mdpi/dvb_channel_info_bg.9.png => app/src/main/resources/drawable-mdpi/dvb_channel_info_bg.9.png
+* res/drawable-mdpi/dvb_channel_info_dolby.png => app/src/main/resources/drawable-mdpi/dvb_channel_info_dolby.png
+* res/drawable-mdpi/dvb_email_icon.png => app/src/main/resources/drawable-mdpi/dvb_email_icon.png
+* res/drawable-mdpi/dvb_menu_list_selector.xml => app/src/main/resources/drawable-mdpi/dvb_menu_list_selector.xml
+* res/drawable-mdpi/dvb_vertical_menu_bg.png => app/src/main/resources/drawable-mdpi/dvb_vertical_menu_bg.png
+* res/drawable-mdpi/email_dialog_bg.png => app/src/main/resources/drawable-mdpi/email_dialog_bg.png
+* res/drawable-mdpi/email_icon_no_read.png => app/src/main/resources/drawable-mdpi/email_icon_no_read.png
+* res/drawable-mdpi/email_icon_readed.png => app/src/main/resources/drawable-mdpi/email_icon_readed.png
+* res/drawable-mdpi/email_item_title_bg.png => app/src/main/resources/drawable-mdpi/email_item_title_bg.png
+* res/drawable-mdpi/email_list_selector.xml => app/src/main/resources/drawable-mdpi/email_list_selector.xml
+* res/drawable-mdpi/email_listview_bg.png => app/src/main/resources/drawable-mdpi/email_listview_bg.png
+* res/drawable-mdpi/email_listview_divider.png => app/src/main/resources/drawable-mdpi/email_listview_divider.png
+* res/drawable-mdpi/email_listview_selected_bg.png => app/src/main/resources/drawable-mdpi/email_listview_selected_bg.png
+* res/drawable-mdpi/epg_listview_focused.png => app/src/main/resources/drawable-mdpi/epg_listview_focused.png
+* res/drawable-mdpi/epg_listview_selected.png => app/src/main/resources/drawable-mdpi/epg_listview_selected.png
+* res/drawable-mdpi/epg_listview_selector.xml => app/src/main/resources/drawable-mdpi/epg_listview_selector.xml
+* res/drawable-mdpi/epg_menu_bg.9.png => app/src/main/resources/drawable-mdpi/epg_menu_bg.9.png
+* res/drawable-mdpi/epg_menu_select_bg.9.png => app/src/main/resources/drawable-mdpi/epg_menu_select_bg.9.png
+* res/drawable-mdpi/exit_dialog_bg.9.png => app/src/main/resources/drawable-mdpi/exit_dialog_bg.9.png
+* res/drawable-mdpi/focus.9.png => app/src/main/resources/drawable-mdpi/focus.9.png
+* res/drawable-mdpi/icon_faovrite_play_now.png => app/src/main/resources/drawable-mdpi/icon_faovrite_play_now.png
+* res/drawable-mdpi/icon_favorite.png => app/src/main/resources/drawable-mdpi/icon_favorite.png
+* res/drawable-mdpi/icon_lock.png => app/src/main/resources/drawable-mdpi/icon_lock.png
+* res/drawable-mdpi/icon_money.png => app/src/main/resources/drawable-mdpi/icon_money.png
+* res/drawable-mdpi/linearlayout_bg.9.png => app/src/main/resources/drawable-mdpi/linearlayout_bg.9.png
+* res/drawable-mdpi/menu_back.png => app/src/main/resources/drawable-mdpi/menu_back.png
+* res/drawable-mdpi/menu_dropdown_listitem_background.xml => app/src/main/resources/drawable-mdpi/menu_dropdown_listitem_background.xml
+* res/drawable-mdpi/menu_dropdown_listitem_background_focus.9.png => app/src/main/resources/drawable-mdpi/menu_dropdown_listitem_background_focus.9.png
+* res/drawable-mdpi/menu_dropdown_listitem_background_transition.xml => app/src/main/resources/drawable-mdpi/menu_dropdown_listitem_background_transition.xml
+* res/drawable-mdpi/menu_fav_add_focus.png => app/src/main/resources/drawable-mdpi/menu_fav_add_focus.png
+* res/drawable-mdpi/menu_fav_add_unfocus.png => app/src/main/resources/drawable-mdpi/menu_fav_add_unfocus.png
+* res/drawable-mdpi/menu_fav_cancel_focus.png => app/src/main/resources/drawable-mdpi/menu_fav_cancel_focus.png
+* res/drawable-mdpi/menu_fav_cancel_unfocus.png => app/src/main/resources/drawable-mdpi/menu_fav_cancel_unfocus.png
+* res/drawable-mdpi/menu_fav_icon.png => app/src/main/resources/drawable-mdpi/menu_fav_icon.png
+* res/drawable-mdpi/menu_fav_icon_canceled.png => app/src/main/resources/drawable-mdpi/menu_fav_icon_canceled.png
+* res/drawable-mdpi/menu_reservation_clock_icon_focus.png => app/src/main/resources/drawable-mdpi/menu_reservation_clock_icon_focus.png
+* res/drawable-mdpi/menu_reservation_clock_icon_unfocus.png => app/src/main/resources/drawable-mdpi/menu_reservation_clock_icon_unfocus.png
+* res/drawable-mdpi/menu_setting_back.png => app/src/main/resources/drawable-mdpi/menu_setting_back.png
+* res/drawable-mdpi/menu_text_color_selector.xml => app/src/main/resources/drawable-mdpi/menu_text_color_selector.xml
+* res/drawable-mdpi/menu_title_bg.png => app/src/main/resources/drawable-mdpi/menu_title_bg.png
+* res/drawable-mdpi/menu_title_cl_focus.png => app/src/main/resources/drawable-mdpi/menu_title_cl_focus.png
+* res/drawable-mdpi/menu_title_cl_nofocus.png => app/src/main/resources/drawable-mdpi/menu_title_cl_nofocus.png
+* res/drawable-mdpi/menu_title_focus_tag_bg.9.png => app/src/main/resources/drawable-mdpi/menu_title_focus_tag_bg.9.png
+* res/drawable-mdpi/menu_title_pg_focus.png => app/src/main/resources/drawable-mdpi/menu_title_pg_focus.png
+* res/drawable-mdpi/menu_title_pg_nofocus.png => app/src/main/resources/drawable-mdpi/menu_title_pg_nofocus.png
+* res/drawable-mdpi/menu_title_settings_focus.png => app/src/main/resources/drawable-mdpi/menu_title_settings_focus.png
+* res/drawable-mdpi/menu_title_settings_nofocus.png => app/src/main/resources/drawable-mdpi/menu_title_settings_nofocus.png
+* res/drawable-mdpi/order.png => app/src/main/resources/drawable-mdpi/order.png
+* res/drawable-mdpi/play_progressbar.xml => app/src/main/resources/drawable-mdpi/play_progressbar.xml
+* res/drawable-mdpi/program_alert_clock.png => app/src/main/resources/drawable-mdpi/program_alert_clock.png
+* res/drawable-mdpi/progress_background_left.png => app/src/main/resources/drawable-mdpi/progress_background_left.png
+* res/drawable-mdpi/progress_background_mid.png => app/src/main/resources/drawable-mdpi/progress_background_mid.png
+* res/drawable-mdpi/progress_background_right.png => app/src/main/resources/drawable-mdpi/progress_background_right.png
+* res/drawable-mdpi/progress_bg.9.png => app/src/main/resources/drawable-mdpi/progress_bg.9.png
+* res/drawable-mdpi/progress_image.9.png => app/src/main/resources/drawable-mdpi/progress_image.9.png
+* res/drawable-mdpi/progress_mid.png => app/src/main/resources/drawable-mdpi/progress_mid.png
+* res/drawable-mdpi/progress_right.png => app/src/main/resources/drawable-mdpi/progress_right.png
+* res/drawable-mdpi/progressbar_bg.xml => app/src/main/resources/drawable-mdpi/progressbar_bg.xml
+* res/drawable-mdpi/psd_dialog_bg.png => app/src/main/resources/drawable-mdpi/psd_dialog_bg.png
+* res/drawable-mdpi/public_dialog_bg.9.png => app/src/main/resources/drawable-mdpi/public_dialog_bg.9.png
+* res/drawable-mdpi/scroll_bg.9.png => app/src/main/resources/drawable-mdpi/scroll_bg.9.png
+* res/drawable-mdpi/scroll_front.9.png => app/src/main/resources/drawable-mdpi/scroll_front.9.png
+* res/drawable-mdpi/scrollbar_bg.9.png => app/src/main/resources/drawable-mdpi/scrollbar_bg.9.png
+* res/drawable-mdpi/scrollbar_front.9.png => app/src/main/resources/drawable-mdpi/scrollbar_front.9.png
+* res/drawable-mdpi/search_comment_color.xml => app/src/main/resources/drawable-mdpi/search_comment_color.xml
+* res/drawable-mdpi/search_down_list_bg.9.png => app/src/main/resources/drawable-mdpi/search_down_list_bg.9.png
+* res/drawable-mdpi/search_down_list_focus.png => app/src/main/resources/drawable-mdpi/search_down_list_focus.png
+* res/drawable-mdpi/search_et_normal.9.png => app/src/main/resources/drawable-mdpi/search_et_normal.9.png
+* res/drawable-mdpi/search_et_selected.9.png => app/src/main/resources/drawable-mdpi/search_et_selected.9.png
+* res/drawable-mdpi/search_et_selector.xml => app/src/main/resources/drawable-mdpi/search_et_selector.xml
+* res/drawable-mdpi/search_listitem_bg.9.png => app/src/main/resources/drawable-mdpi/search_listitem_bg.9.png
+* res/drawable-mdpi/search_menu_bg.png => app/src/main/resources/drawable-mdpi/search_menu_bg.png
+* res/drawable-mdpi/search_menu_normal.png => app/src/main/resources/drawable-mdpi/search_menu_normal.png
+* res/drawable-mdpi/search_menu_selected.png => app/src/main/resources/drawable-mdpi/search_menu_selected.png
+* res/drawable-mdpi/search_progressbar_layout_bg.9.png => app/src/main/resources/drawable-mdpi/search_progressbar_layout_bg.9.png
+* res/drawable-mdpi/search_settings_arrows_focus.png => app/src/main/resources/drawable-mdpi/search_settings_arrows_focus.png
+* res/drawable-mdpi/search_settings_arrows_unfocus.png => app/src/main/resources/drawable-mdpi/search_settings_arrows_unfocus.png
+* res/drawable-mdpi/search_spinner_item_selector.xml => app/src/main/resources/drawable-mdpi/search_spinner_item_selector.xml
+* res/drawable-mdpi/search_text_color.xml => app/src/main/resources/drawable-mdpi/search_text_color.xml
+* res/drawable-mdpi/setting_back.png => app/src/main/resources/drawable-mdpi/setting_back.png
+* res/drawable-mdpi/spinner_item_selected.png => app/src/main/resources/drawable-mdpi/spinner_item_selected.png
+* res/drawable-mdpi/text_grey_green_selector.xml => app/src/main/resources/drawable-mdpi/text_grey_green_selector.xml
+* res/drawable-mdpi/text_selector.xml => app/src/main/resources/drawable-mdpi/text_selector.xml
+* res/drawable-mdpi/text_white_green_selector.xml => app/src/main/resources/drawable-mdpi/text_white_green_selector.xml
+* res/drawable-w1280dp/back_btn_bg.png => app/src/main/resources/drawable-w1280dp/back_btn_bg.png
+* res/drawable-w1280dp/ca_edittext_normal.png => app/src/main/resources/drawable-w1280dp/ca_edittext_normal.png
+* res/drawable-w1280dp/ca_edittext_selected.png => app/src/main/resources/drawable-w1280dp/ca_edittext_selected.png
+* res/drawable-w1280dp/confirm_btn_bg.png => app/src/main/resources/drawable-w1280dp/confirm_btn_bg.png
+* res/drawable-w1280dp/control_layout_bg.9.png => app/src/main/resources/drawable-w1280dp/control_layout_bg.9.png
+* res/drawable-w1280dp/default_bc_icon.png => app/src/main/resources/drawable-w1280dp/default_bc_icon.png
+* res/drawable-w1280dp/default_icon.png => app/src/main/resources/drawable-w1280dp/default_icon.png
+* res/drawable-w1280dp/dvb_bc_main_bg.png => app/src/main/resources/drawable-w1280dp/dvb_bc_main_bg.png
+* res/drawable-w1280dp/dvb_button_default_normal.9.png => app/src/main/resources/drawable-w1280dp/dvb_button_default_normal.9.png
+* res/drawable-w1280dp/dvb_button_default_pressed.9.png => app/src/main/resources/drawable-w1280dp/dvb_button_default_pressed.9.png
+* res/drawable-w1280dp/dvb_button_default_selected.9.png => app/src/main/resources/drawable-w1280dp/dvb_button_default_selected.9.png
+* res/drawable-w1280dp/dvb_channel_info_bg.9.png => app/src/main/resources/drawable-w1280dp/dvb_channel_info_bg.9.png
+* res/drawable-w1280dp/dvb_channel_number_0.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_0.png
+* res/drawable-w1280dp/dvb_channel_number_1.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_1.png
+* res/drawable-w1280dp/dvb_channel_number_2.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_2.png
+* res/drawable-w1280dp/dvb_channel_number_3.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_3.png
+* res/drawable-w1280dp/dvb_channel_number_4.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_4.png
+* res/drawable-w1280dp/dvb_channel_number_5.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_5.png
+* res/drawable-w1280dp/dvb_channel_number_6.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_6.png
+* res/drawable-w1280dp/dvb_channel_number_7.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_7.png
+* res/drawable-w1280dp/dvb_channel_number_8.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_8.png
+* res/drawable-w1280dp/dvb_channel_number_9.png => app/src/main/resources/drawable-w1280dp/dvb_channel_number_9.png
+* res/drawable-w1280dp/dvb_channel_nums.xml => app/src/main/resources/drawable-w1280dp/dvb_channel_nums.xml
+* res/drawable-w1280dp/email_bg.png => app/src/main/resources/drawable-w1280dp/email_bg.png
+* res/drawable-w1280dp/epg_above_bg.png => app/src/main/resources/drawable-w1280dp/epg_above_bg.png
+* res/drawable-w1280dp/epg_below_bg.png => app/src/main/resources/drawable-w1280dp/epg_below_bg.png
+* res/drawable-w1280dp/epg_focus.9.png => app/src/main/resources/drawable-w1280dp/epg_focus.9.png
+* res/drawable-w1280dp/epg_menu_select_bg.9.png => app/src/main/resources/drawable-w1280dp/epg_menu_select_bg.9.png
+* res/drawable-w1280dp/epg_ok_img.png => app/src/main/resources/drawable-w1280dp/epg_ok_img.png
+* res/drawable-w1280dp/epg_playing_icon.png => app/src/main/resources/drawable-w1280dp/epg_playing_icon.png
+* res/drawable-w1280dp/epg_tips_left.png => app/src/main/resources/drawable-w1280dp/epg_tips_left.png
+* res/drawable-w1280dp/epg_tips_right.png => app/src/main/resources/drawable-w1280dp/epg_tips_right.png
+* res/drawable-w1280dp/fast_back.png => app/src/main/resources/drawable-w1280dp/fast_back.png
+* res/drawable-w1280dp/fast_back_focus.png => app/src/main/resources/drawable-w1280dp/fast_back_focus.png
+* res/drawable-w1280dp/fast_back_head.png => app/src/main/resources/drawable-w1280dp/fast_back_head.png
+* res/drawable-w1280dp/fast_back_head_focus.png => app/src/main/resources/drawable-w1280dp/fast_back_head_focus.png
+* res/drawable-w1280dp/fast_forward.png => app/src/main/resources/drawable-w1280dp/fast_forward.png
+* res/drawable-w1280dp/fast_forward_focus.png => app/src/main/resources/drawable-w1280dp/fast_forward_focus.png
+* res/drawable-w1280dp/fast_forward_last.png => app/src/main/resources/drawable-w1280dp/fast_forward_last.png
+* res/drawable-w1280dp/fast_forward_last_focus.png => app/src/main/resources/drawable-w1280dp/fast_forward_last_focus.png
+* res/drawable-w1280dp/focus.9.png => app/src/main/resources/drawable-w1280dp/focus.9.png
+* res/drawable-w1280dp/focus_rectangle.9.png => app/src/main/resources/drawable-w1280dp/focus_rectangle.9.png
+* res/drawable-w1280dp/focus_reserve.9.png => app/src/main/resources/drawable-w1280dp/focus_reserve.9.png
+* res/drawable-w1280dp/full_focus.png => app/src/main/resources/drawable-w1280dp/full_focus.png
+* res/drawable-w1280dp/guideview_logo.png => app/src/main/resources/drawable-w1280dp/guideview_logo.png
+* res/drawable-w1280dp/icon_favorite.png => app/src/main/resources/drawable-w1280dp/icon_favorite.png
+* res/drawable-w1280dp/img1.png => app/src/main/resources/drawable-w1280dp/img1.png
+* res/drawable-w1280dp/launcher_alert_window_bg.9.png => app/src/main/resources/drawable-w1280dp/launcher_alert_window_bg.9.png
+* res/drawable-w1280dp/left.png => app/src/main/resources/drawable-w1280dp/left.png
+* res/drawable-w1280dp/list_return.png => app/src/main/resources/drawable-w1280dp/list_return.png
+* res/drawable-w1280dp/list_selector.xml => app/src/main/resources/drawable-w1280dp/list_selector.xml
+* res/drawable-w1280dp/look_back_btn_bg.png => app/src/main/resources/drawable-w1280dp/look_back_btn_bg.png
+* res/drawable-w1280dp/lookback.png => app/src/main/resources/drawable-w1280dp/lookback.png
+* res/drawable-w1280dp/menu_back.png => app/src/main/resources/drawable-w1280dp/menu_back.png
+* res/drawable-w1280dp/menu_bg.png => app/src/main/resources/drawable-w1280dp/menu_bg.png
+* res/drawable-w1280dp/menu_fav_add_focus.png => app/src/main/resources/drawable-w1280dp/menu_fav_add_focus.png
+* res/drawable-w1280dp/menu_fav_add_unfocus.png => app/src/main/resources/drawable-w1280dp/menu_fav_add_unfocus.png
+* res/drawable-w1280dp/menu_fav_cancel_focus.png => app/src/main/resources/drawable-w1280dp/menu_fav_cancel_focus.png
+* res/drawable-w1280dp/menu_fav_cancel_unfocus.png => app/src/main/resources/drawable-w1280dp/menu_fav_cancel_unfocus.png
+* res/drawable-w1280dp/menu_icon.png => app/src/main/resources/drawable-w1280dp/menu_icon.png
+* res/drawable-w1280dp/menu_point_focus.png => app/src/main/resources/drawable-w1280dp/menu_point_focus.png
+* res/drawable-w1280dp/menu_point_selector.xml => app/src/main/resources/drawable-w1280dp/menu_point_selector.xml
+* res/drawable-w1280dp/menu_point_unfocus.png => app/src/main/resources/drawable-w1280dp/menu_point_unfocus.png
+* res/drawable-w1280dp/menu_reservation_clock_icon_focus.png => app/src/main/resources/drawable-w1280dp/menu_reservation_clock_icon_focus.png
+* res/drawable-w1280dp/menu_setting_back.png => app/src/main/resources/drawable-w1280dp/menu_setting_back.png
+* res/drawable-w1280dp/menu_sys_info_point.png => app/src/main/resources/drawable-w1280dp/menu_sys_info_point.png
+* res/drawable-w1280dp/menu_title_bg.png => app/src/main/resources/drawable-w1280dp/menu_title_bg.png
+* res/drawable-w1280dp/menu_title_cl_focus.png => app/src/main/resources/drawable-w1280dp/menu_title_cl_focus.png
+* res/drawable-w1280dp/menu_title_cl_nofocus.png => app/src/main/resources/drawable-w1280dp/menu_title_cl_nofocus.png
+* res/drawable-w1280dp/menu_title_focus_tag_bg.9.png => app/src/main/resources/drawable-w1280dp/menu_title_focus_tag_bg.9.png
+* res/drawable-w1280dp/menu_title_pg_focus.png => app/src/main/resources/drawable-w1280dp/menu_title_pg_focus.png
+* res/drawable-w1280dp/menu_title_pg_nofocus.png => app/src/main/resources/drawable-w1280dp/menu_title_pg_nofocus.png
+* res/drawable-w1280dp/menu_title_settings_focus.png => app/src/main/resources/drawable-w1280dp/menu_title_settings_focus.png
+* res/drawable-w1280dp/menu_title_settings_nofocus.png => app/src/main/resources/drawable-w1280dp/menu_title_settings_nofocus.png
+* res/drawable-w1280dp/mini_epg.9.png => app/src/main/resources/drawable-w1280dp/mini_epg.9.png
+* res/drawable-w1280dp/mini_epg_ad.jpg => app/src/main/resources/drawable-w1280dp/mini_epg_ad.jpg
+* res/drawable-w1280dp/mini_epg_bg.png => app/src/main/resources/drawable-w1280dp/mini_epg_bg.png
+* res/drawable-w1280dp/mini_epg_dolby.png => app/src/main/resources/drawable-w1280dp/mini_epg_dolby.png
+* res/drawable-w1280dp/mini_epg_select_bg.png => app/src/main/resources/drawable-w1280dp/mini_epg_select_bg.png
+* res/drawable-w1280dp/mini_epg_separate_line.png => app/src/main/resources/drawable-w1280dp/mini_epg_separate_line.png
+* res/drawable-w1280dp/order_bg.png => app/src/main/resources/drawable-w1280dp/order_bg.png
+* res/drawable-w1280dp/order_focus.png => app/src/main/resources/drawable-w1280dp/order_focus.png
+* res/drawable-w1280dp/order_nomal.png => app/src/main/resources/drawable-w1280dp/order_nomal.png
+* res/drawable-w1280dp/order_success.png => app/src/main/resources/drawable-w1280dp/order_success.png
+* res/drawable-w1280dp/page_turning_m.png => app/src/main/resources/drawable-w1280dp/page_turning_m.png
+* res/drawable-w1280dp/page_turning_p.png => app/src/main/resources/drawable-w1280dp/page_turning_p.png
+* res/drawable-w1280dp/play_loading_bg.png => app/src/main/resources/drawable-w1280dp/play_loading_bg.png
+* res/drawable-w1280dp/play_loading_progress.png => app/src/main/resources/drawable-w1280dp/play_loading_progress.png
+* res/drawable-w1280dp/play_loading_secondaryprogress.png => app/src/main/resources/drawable-w1280dp/play_loading_secondaryprogress.png
+* res/drawable-w1280dp/play_pause.png => app/src/main/resources/drawable-w1280dp/play_pause.png
+* res/drawable-w1280dp/play_pause_focus.png => app/src/main/resources/drawable-w1280dp/play_pause_focus.png
+* res/drawable-w1280dp/play_progressbar.xml => app/src/main/resources/drawable-w1280dp/play_progressbar.xml
+* res/drawable-w1280dp/postar_bg.png => app/src/main/resources/drawable-w1280dp/postar_bg.png
+* res/drawable-w1280dp/preview_default.png => app/src/main/resources/drawable-w1280dp/preview_default.png
+* res/drawable-w1280dp/program_reserve_bg.9.png => app/src/main/resources/drawable-w1280dp/program_reserve_bg.9.png
+* res/drawable-w1280dp/programguide_top_bg.png => app/src/main/resources/drawable-w1280dp/programguide_top_bg.png
+* res/drawable-w1280dp/progress.9.png => app/src/main/resources/drawable-w1280dp/progress.9.png
+* res/drawable-w1280dp/progress_bg.9.png => app/src/main/resources/drawable-w1280dp/progress_bg.9.png
+* res/drawable-w1280dp/public_dialog_bg.9.png => app/src/main/resources/drawable-w1280dp/public_dialog_bg.9.png
+* res/drawable-w1280dp/red_btn.png => app/src/main/resources/drawable-w1280dp/red_btn.png
+* res/drawable-w1280dp/right.png => app/src/main/resources/drawable-w1280dp/right.png
+* res/drawable-w1280dp/search_back.png => app/src/main/resources/drawable-w1280dp/search_back.png
+* res/drawable-w1280dp/search_listitem_bg.9.png => app/src/main/resources/drawable-w1280dp/search_listitem_bg.9.png
+* res/drawable-w1280dp/search_settings_arrows_focus.png => app/src/main/resources/drawable-w1280dp/search_settings_arrows_focus.png
+* res/drawable-w1280dp/testa.png => app/src/main/resources/drawable-w1280dp/testa.png
+* res/drawable-w1280dp/text_color_selector.xml => app/src/main/resources/drawable-w1280dp/text_color_selector.xml
+* res/drawable-w1280dp/thumb.png => app/src/main/resources/drawable-w1280dp/thumb.png
+* res/drawable-w1280dp/time_shift.png => app/src/main/resources/drawable-w1280dp/time_shift.png
+* res/drawable-w1280dp/title_move_bar.png => app/src/main/resources/drawable-w1280dp/title_move_bar.png
+* res/drawable-w1280dp/trun_page_left.png => app/src/main/resources/drawable-w1280dp/trun_page_left.png
+* res/drawable-w1280dp/trun_page_right.png => app/src/main/resources/drawable-w1280dp/trun_page_right.png
+* res/drawable-w1280dp/week_epg_bg.png => app/src/main/resources/drawable-w1280dp/week_epg_bg.png
+* res/drawable-w1920dp/be_about_to_icon.png => app/src/main/resources/drawable-w1920dp/be_about_to_icon.png
+* res/drawable-w1920dp/ca_edittext_normal.png => app/src/main/resources/drawable-w1920dp/ca_edittext_normal.png
+* res/drawable-w1920dp/ca_edittext_selected.png => app/src/main/resources/drawable-w1920dp/ca_edittext_selected.png
+* res/drawable-w1920dp/channel_icon_test.png => app/src/main/resources/drawable-w1920dp/channel_icon_test.png
+* res/drawable-w1920dp/epg_above_bg.png => app/src/main/resources/drawable-w1920dp/epg_above_bg.png
+* res/drawable-w1920dp/epg_below_bg.png => app/src/main/resources/drawable-w1920dp/epg_below_bg.png
+* res/drawable-w1920dp/epg_focus.png => app/src/main/resources/drawable-w1920dp/epg_focus.png
+* res/drawable-w1920dp/focus_rectangle.9.png => app/src/main/resources/drawable-w1920dp/focus_rectangle.9.png
+* res/drawable-w1920dp/guideview_logo.png => app/src/main/resources/drawable-w1920dp/guideview_logo.png
+* res/drawable-w1920dp/icon_favorite.png => app/src/main/resources/drawable-w1920dp/icon_favorite.png
+* res/drawable-w1920dp/img1.png => app/src/main/resources/drawable-w1920dp/img1.png
+* res/drawable-w1920dp/menu_point_focus.png => app/src/main/resources/drawable-w1920dp/menu_point_focus.png
+* res/drawable-w1920dp/menu_point_selector.xml => app/src/main/resources/drawable-w1920dp/menu_point_selector.xml
+* res/drawable-w1920dp/menu_point_unfocus.png => app/src/main/resources/drawable-w1920dp/menu_point_unfocus.png
+* res/drawable-w1920dp/menu_setting_back.png => app/src/main/resources/drawable-w1920dp/menu_setting_back.png
+* res/drawable-w1920dp/menu_sys_info_point.png => app/src/main/resources/drawable-w1920dp/menu_sys_info_point.png
+* res/drawable-w1920dp/menu_title_bg.png => app/src/main/resources/drawable-w1920dp/menu_title_bg.png
+* res/drawable-w1920dp/menu_title_cl_focus.png => app/src/main/resources/drawable-w1920dp/menu_title_cl_focus.png
+* res/drawable-w1920dp/menu_title_cl_nofocus.png => app/src/main/resources/drawable-w1920dp/menu_title_cl_nofocus.png
+* res/drawable-w1920dp/menu_title_focus_tag_bg.9.png => app/src/main/resources/drawable-w1920dp/menu_title_focus_tag_bg.9.png
+* res/drawable-w1920dp/menu_title_pg_focus.png => app/src/main/resources/drawable-w1920dp/menu_title_pg_focus.png
+* res/drawable-w1920dp/menu_title_pg_nofocus.png => app/src/main/resources/drawable-w1920dp/menu_title_pg_nofocus.png
+* res/drawable-w1920dp/menu_title_settings_focus.png => app/src/main/resources/drawable-w1920dp/menu_title_settings_focus.png
+* res/drawable-w1920dp/menu_title_settings_nofocus.png => app/src/main/resources/drawable-w1920dp/menu_title_settings_nofocus.png
+* res/drawable-w1920dp/mini_epg.9.png => app/src/main/resources/drawable-w1920dp/mini_epg.9.png
+* res/drawable-w1920dp/mini_epg_ad.jpg => app/src/main/resources/drawable-w1920dp/mini_epg_ad.jpg
+* res/drawable-w1920dp/mini_epg_bg.png => app/src/main/resources/drawable-w1920dp/mini_epg_bg.png
+* res/drawable-w1920dp/mini_epg_dolby.png => app/src/main/resources/drawable-w1920dp/mini_epg_dolby.png
+* res/drawable-w1920dp/mini_epg_select_bg.png => app/src/main/resources/drawable-w1920dp/mini_epg_select_bg.png
+* res/drawable-w1920dp/mini_epg_separate_line.png => app/src/main/resources/drawable-w1920dp/mini_epg_separate_line.png
+* res/drawable-w1920dp/order_bg.png => app/src/main/resources/drawable-w1920dp/order_bg.png
+* res/drawable-w1920dp/order_focus.png => app/src/main/resources/drawable-w1920dp/order_focus.png
+* res/drawable-w1920dp/order_nomal.png => app/src/main/resources/drawable-w1920dp/order_nomal.png
+* res/drawable-w1920dp/order_success.png => app/src/main/resources/drawable-w1920dp/order_success.png
+* res/drawable-w1920dp/postar_bg.png => app/src/main/resources/drawable-w1920dp/postar_bg.png
+* res/drawable-w1920dp/preview_default.png => app/src/main/resources/drawable-w1920dp/preview_default.png
+* res/drawable-w1920dp/programguide_top_bg.png => app/src/main/resources/drawable-w1920dp/programguide_top_bg.png
+* res/drawable-w1920dp/progress.9.png => app/src/main/resources/drawable-w1920dp/progress.9.png
+* res/drawable-w1920dp/search_back.png => app/src/main/resources/drawable-w1920dp/search_back.png
+* res/drawable-w1920dp/search_listitem_bg.9.png => app/src/main/resources/drawable-w1920dp/search_listitem_bg.9.png
+* res/drawable-xhdpi/ic_action_search.png => app/src/main/resources/drawable-xhdpi/ic_action_search.png
+* res/drawable-xhdpi/ic_launcher.png => app/src/main/resources/drawable-xhdpi/ic_launcher.png
+* res/drawable/a2.png => app/src/main/resources/drawable/a2.png
+* res/drawable/a3.png => app/src/main/resources/drawable/a3.png
+* res/drawable/a4.png => app/src/main/resources/drawable/a4.png
+* res/drawable/a5.png => app/src/main/resources/drawable/a5.png
+* res/drawable/a6.png => app/src/main/resources/drawable/a6.png
+* res/drawable/a7.png => app/src/main/resources/drawable/a7.png
+* res/drawable/a8.png => app/src/main/resources/drawable/a8.png
+* res/drawable/a9.png => app/src/main/resources/drawable/a9.png
+* res/drawable/button_selector.xml => app/src/main/resources/drawable/button_selector.xml
+* res/drawable/epg_bg.9.png => app/src/main/resources/drawable/epg_bg.9.png
+* res/drawable/focus.9.png => app/src/main/resources/drawable/focus.9.png
+* res/drawable/focus_rectangle.9.png => app/src/main/resources/drawable/focus_rectangle.9.png
+* res/drawable/group_item_off.png => app/src/main/resources/drawable/group_item_off.png
+* res/drawable/group_item_on.png => app/src/main/resources/drawable/group_item_on.png
+* res/drawable/guide_poster.png => app/src/main/resources/drawable/guide_poster.png
+* res/drawable/icon_favorite.png => app/src/main/resources/drawable/icon_favorite.png
+* res/drawable/jump_view_bg.xml => app/src/main/resources/drawable/jump_view_bg.xml
+* res/drawable/list_divider_line.png => app/src/main/resources/drawable/list_divider_line.png
+* res/drawable/menu_clitem_expand.png => app/src/main/resources/drawable/menu_clitem_expand.png
+* res/drawable/menu_clitem_expand_focus.png => app/src/main/resources/drawable/menu_clitem_expand_focus.png
+* res/drawable/menu_cltiem_shrink.png => app/src/main/resources/drawable/menu_cltiem_shrink.png
+* res/drawable/menu_cltiem_shrink_focus.png => app/src/main/resources/drawable/menu_cltiem_shrink_focus.png
+* res/drawable/notify_dialog_bg.png => app/src/main/resources/drawable/notify_dialog_bg.png
+* res/drawable/order_select.xml => app/src/main/resources/drawable/order_select.xml
+* res/drawable/play_progressbar.xml => app/src/main/resources/drawable/play_progressbar.xml
+* res/drawable/process_bg.png => app/src/main/resources/drawable/process_bg.png
+* res/drawable/program_poster.png => app/src/main/resources/drawable/program_poster.png
+* res/drawable/progress_style_play.xml => app/src/main/resources/drawable/progress_style_play.xml
+* res/drawable/progressbar_round.xml => app/src/main/resources/drawable/progressbar_round.xml
+* res/drawable/search_settings_arrows_selector.xml => app/src/main/resources/drawable/search_settings_arrows_selector.xml
+* res/drawable/transparent.png => app/src/main/resources/drawable/transparent.png
+* res/layout-w1280dp/alert_dialog_include_button_layout.xml => app/src/main/resources/layout-w1280dp/alert_dialog_include_button_layout.xml
+* res/layout-w1280dp/alert_dialog_layout.xml => app/src/main/resources/layout-w1280dp/alert_dialog_layout.xml
+* res/layout-w1280dp/alert_dialog_no_button_layout.xml => app/src/main/resources/layout-w1280dp/alert_dialog_no_button_layout.xml
+* res/layout-w1280dp/alert_exit_dialog_layout.xml => app/src/main/resources/layout-w1280dp/alert_exit_dialog_layout.xml
+* res/layout-w1280dp/blank.xml => app/src/main/resources/layout-w1280dp/blank.xml
+* res/layout-w1280dp/ca_authoriseinfo_item.xml => app/src/main/resources/layout-w1280dp/ca_authoriseinfo_item.xml
+* res/layout-w1280dp/ca_authoriseinfo_layout.xml => app/src/main/resources/layout-w1280dp/ca_authoriseinfo_layout.xml
+* res/layout-w1280dp/ca_cardinfo_layout.xml => app/src/main/resources/layout-w1280dp/ca_cardinfo_layout.xml
+* res/layout-w1280dp/ca_down_list_layout.xml => app/src/main/resources/layout-w1280dp/ca_down_list_layout.xml
+* res/layout-w1280dp/ca_modify_password_layout.xml => app/src/main/resources/layout-w1280dp/ca_modify_password_layout.xml
+* res/layout-w1280dp/ca_settings_layout.xml => app/src/main/resources/layout-w1280dp/ca_settings_layout.xml
+* res/layout-w1280dp/ca_time_list_item.xml => app/src/main/resources/layout-w1280dp/ca_time_list_item.xml
+* res/layout-w1280dp/ca_watch_level_layout.xml => app/src/main/resources/layout-w1280dp/ca_watch_level_layout.xml
+* res/layout-w1280dp/ca_work_time_layout.xml => app/src/main/resources/layout-w1280dp/ca_work_time_layout.xml
+* res/layout-w1280dp/cell_view.xml => app/src/main/resources/layout-w1280dp/cell_view.xml
+* res/layout-w1280dp/channelnum_textview.xml => app/src/main/resources/layout-w1280dp/channelnum_textview.xml
+* res/layout-w1280dp/dvb_ca_notify_layout.xml => app/src/main/resources/layout-w1280dp/dvb_ca_notify_layout.xml
+* res/layout-w1280dp/dvb_channelinfo_view.xml => app/src/main/resources/layout-w1280dp/dvb_channelinfo_view.xml
+* res/layout-w1280dp/dvb_channelnum_view.xml => app/src/main/resources/layout-w1280dp/dvb_channelnum_view.xml
+* res/layout-w1280dp/dvb_channelwindow_listitem.xml => app/src/main/resources/layout-w1280dp/dvb_channelwindow_listitem.xml
+* res/layout-w1280dp/dvb_main.xml => app/src/main/resources/layout-w1280dp/dvb_main.xml
+* res/layout-w1280dp/dvb_menu_list_item.xml => app/src/main/resources/layout-w1280dp/dvb_menu_list_item.xml
+* res/layout-w1280dp/dvb_mini_epg_channel_select.xml => app/src/main/resources/layout-w1280dp/dvb_mini_epg_channel_select.xml
+* res/layout-w1280dp/dvb_mini_epg_channel_select_center.xml => app/src/main/resources/layout-w1280dp/dvb_mini_epg_channel_select_center.xml
+* res/layout-w1280dp/dvb_mini_epg_info.xml => app/src/main/resources/layout-w1280dp/dvb_mini_epg_info.xml
+* res/layout-w1280dp/dvb_mini_epg_info_channel.xml => app/src/main/resources/layout-w1280dp/dvb_mini_epg_info_channel.xml
+* res/layout-w1280dp/dvb_mini_epg_info_sp.xml => app/src/main/resources/layout-w1280dp/dvb_mini_epg_info_sp.xml
+* res/layout-w1280dp/dvb_nochannel_notify.xml => app/src/main/resources/layout-w1280dp/dvb_nochannel_notify.xml
+* res/layout-w1280dp/dvb_setting_sound.xml => app/src/main/resources/layout-w1280dp/dvb_setting_sound.xml
+* res/layout-w1280dp/dvb_symbol_notify_layout.xml => app/src/main/resources/layout-w1280dp/dvb_symbol_notify_layout.xml
+* res/layout-w1280dp/dvb_volumechannel_audioindex_notify.xml => app/src/main/resources/layout-w1280dp/dvb_volumechannel_audioindex_notify.xml
+* res/layout-w1280dp/edit_dialog_layout.xml => app/src/main/resources/layout-w1280dp/edit_dialog_layout.xml
+* res/layout-w1280dp/email_delete_ask_dialog.xml => app/src/main/resources/layout-w1280dp/email_delete_ask_dialog.xml
+* res/layout-w1280dp/email_dialog.xml => app/src/main/resources/layout-w1280dp/email_dialog.xml
+* res/layout-w1280dp/email_listview_item.xml => app/src/main/resources/layout-w1280dp/email_listview_item.xml
+* res/layout-w1280dp/email_main.xml => app/src/main/resources/layout-w1280dp/email_main.xml
+* res/layout-w1280dp/epg_channel_item.xml => app/src/main/resources/layout-w1280dp/epg_channel_item.xml
+* res/layout-w1280dp/epg_channel_list_item.xml => app/src/main/resources/layout-w1280dp/epg_channel_list_item.xml
+* res/layout-w1280dp/epg_channel_list_view.xml => app/src/main/resources/layout-w1280dp/epg_channel_list_view.xml
+* res/layout-w1280dp/epg_guide.xml => app/src/main/resources/layout-w1280dp/epg_guide.xml
+* res/layout-w1280dp/epg_program_item.xml => app/src/main/resources/layout-w1280dp/epg_program_item.xml
+* res/layout-w1280dp/epg_program_list_item.xml => app/src/main/resources/layout-w1280dp/epg_program_list_item.xml
+* res/layout-w1280dp/epg_weeks.xml => app/src/main/resources/layout-w1280dp/epg_weeks.xml
+* res/layout-w1280dp/error_channel_layout.xml => app/src/main/resources/layout-w1280dp/error_channel_layout.xml
+* res/layout-w1280dp/launcher_notify_message_layout.xml => app/src/main/resources/layout-w1280dp/launcher_notify_message_layout.xml
+* res/layout-w1280dp/liveguide_layout.xml => app/src/main/resources/layout-w1280dp/liveguide_layout.xml
+* res/layout-w1280dp/look_back_activity.xml => app/src/main/resources/layout-w1280dp/look_back_activity.xml
+* res/layout-w1280dp/menu.xml => app/src/main/resources/layout-w1280dp/menu.xml
+* res/layout-w1280dp/menu_channel_category.xml => app/src/main/resources/layout-w1280dp/menu_channel_category.xml
+* res/layout-w1280dp/menu_channel_category_item.xml => app/src/main/resources/layout-w1280dp/menu_channel_category_item.xml
+* res/layout-w1280dp/menu_channel_list.xml => app/src/main/resources/layout-w1280dp/menu_channel_list.xml
+* res/layout-w1280dp/menu_channel_list_item.xml => app/src/main/resources/layout-w1280dp/menu_channel_list_item.xml
+* res/layout-w1280dp/menu_favorite_list_layout.xml => app/src/main/resources/layout-w1280dp/menu_favorite_list_layout.xml
+* res/layout-w1280dp/menu_favorite_listitem.xml => app/src/main/resources/layout-w1280dp/menu_favorite_listitem.xml
+* res/layout-w1280dp/menu_program_guide.xml => app/src/main/resources/layout-w1280dp/menu_program_guide.xml
+* res/layout-w1280dp/menu_reservation_list.xml => app/src/main/resources/layout-w1280dp/menu_reservation_list.xml
+* res/layout-w1280dp/menu_setting.xml => app/src/main/resources/layout-w1280dp/menu_setting.xml
+* res/layout-w1280dp/menu_setting_sub.xml => app/src/main/resources/layout-w1280dp/menu_setting_sub.xml
+* res/layout-w1280dp/menu_system_info.xml => app/src/main/resources/layout-w1280dp/menu_system_info.xml
+* res/layout-w1280dp/menu_view.xml => app/src/main/resources/layout-w1280dp/menu_view.xml
+* res/layout-w1280dp/notify_dialog_layout.xml => app/src/main/resources/layout-w1280dp/notify_dialog_layout.xml
+* res/layout-w1280dp/order_dialog_layout.xml => app/src/main/resources/layout-w1280dp/order_dialog_layout.xml
+* res/layout-w1280dp/order_result_dialog_layout.xml => app/src/main/resources/layout-w1280dp/order_result_dialog_layout.xml
+* res/layout-w1280dp/pagerview_item.xml => app/src/main/resources/layout-w1280dp/pagerview_item.xml
+* res/layout-w1280dp/play_controller.xml => app/src/main/resources/layout-w1280dp/play_controller.xml
+* res/layout-w1280dp/progguide_menu_listitem.xml => app/src/main/resources/layout-w1280dp/progguide_menu_listitem.xml
+* res/layout-w1280dp/program_reserves_alert.xml => app/src/main/resources/layout-w1280dp/program_reserves_alert.xml
+* res/layout-w1280dp/program_reserves_list_item.xml => app/src/main/resources/layout-w1280dp/program_reserves_list_item.xml
+* res/layout-w1280dp/programguide_topmenu.xml => app/src/main/resources/layout-w1280dp/programguide_topmenu.xml
+* res/layout-w1280dp/search_advanced_option_layout.xml => app/src/main/resources/layout-w1280dp/search_advanced_option_layout.xml
+* res/layout-w1280dp/search_all_menu_layout.xml => app/src/main/resources/layout-w1280dp/search_all_menu_layout.xml
+* res/layout-w1280dp/search_down_list_item.xml => app/src/main/resources/layout-w1280dp/search_down_list_item.xml
+* res/layout-w1280dp/search_down_list_layout.xml => app/src/main/resources/layout-w1280dp/search_down_list_layout.xml
+* res/layout-w1280dp/search_fast_search_layout.xml => app/src/main/resources/layout-w1280dp/search_fast_search_layout.xml
+* res/layout-w1280dp/search_fast_search_list_item.xml => app/src/main/resources/layout-w1280dp/search_fast_search_list_item.xml
+* res/layout-w1280dp/search_manual_search_layout.xml => app/src/main/resources/layout-w1280dp/search_manual_search_layout.xml
+* res/layout-w1280dp/search_menu_layout.xml => app/src/main/resources/layout-w1280dp/search_menu_layout.xml
+* res/layout-w1280dp/search_progress_dialog_layout.xml => app/src/main/resources/layout-w1280dp/search_progress_dialog_layout.xml
+* res/layout-w1280dp/spinner_item.xml => app/src/main/resources/layout-w1280dp/spinner_item.xml
+* res/layout-w1280dp/spinner_layout.xml => app/src/main/resources/layout-w1280dp/spinner_layout.xml
+* res/layout-w1280dp/test_activity.xml => app/src/main/resources/layout-w1280dp/test_activity.xml
+* res/layout-w1280dp/time_shift_activity.xml => app/src/main/resources/layout-w1280dp/time_shift_activity.xml
+* res/layout-w1280dp/timeshift_exit_dialog_layout.xml => app/src/main/resources/layout-w1280dp/timeshift_exit_dialog_layout.xml
+* res/layout-w1280dp/timeshift_jump_layout.xml => app/src/main/resources/layout-w1280dp/timeshift_jump_layout.xml
+* res/layout-w1280dp/timeshift_layout.xml => app/src/main/resources/layout-w1280dp/timeshift_layout.xml
+* res/layout-w1280dp/timeshift_not_start_dialog_layout.xml => app/src/main/resources/layout-w1280dp/timeshift_not_start_dialog_layout.xml
+* res/layout-w1280dp/timeshift_select_dialog_layout.xml => app/src/main/resources/layout-w1280dp/timeshift_select_dialog_layout.xml
+* res/layout-w1280dp/updateprogress_ca.xml => app/src/main/resources/layout-w1280dp/updateprogress_ca.xml
+* res/layout-w1920dp/alert_dialog_include_button_layout.xml => app/src/main/resources/layout-w1920dp/alert_dialog_include_button_layout.xml
+* res/layout-w1920dp/alert_dialog_layout.xml => app/src/main/resources/layout-w1920dp/alert_dialog_layout.xml
+* res/layout-w1920dp/alert_dialog_no_button_layout.xml => app/src/main/resources/layout-w1920dp/alert_dialog_no_button_layout.xml
+* res/layout-w1920dp/alert_exit_dialog_layout.xml => app/src/main/resources/layout-w1920dp/alert_exit_dialog_layout.xml
+* res/layout-w1920dp/ca_authoriseinfo_item.xml => app/src/main/resources/layout-w1920dp/ca_authoriseinfo_item.xml
+* res/layout-w1920dp/ca_authoriseinfo_layout.xml => app/src/main/resources/layout-w1920dp/ca_authoriseinfo_layout.xml
+* res/layout-w1920dp/ca_cardinfo_layout.xml => app/src/main/resources/layout-w1920dp/ca_cardinfo_layout.xml
+* res/layout-w1920dp/ca_down_list_layout.xml => app/src/main/resources/layout-w1920dp/ca_down_list_layout.xml
+* res/layout-w1920dp/ca_modify_password_layout.xml => app/src/main/resources/layout-w1920dp/ca_modify_password_layout.xml
+* res/layout-w1920dp/ca_settings_layout.xml => app/src/main/resources/layout-w1920dp/ca_settings_layout.xml
+* res/layout-w1920dp/ca_time_list_item.xml => app/src/main/resources/layout-w1920dp/ca_time_list_item.xml
+* res/layout-w1920dp/ca_watch_level_layout.xml => app/src/main/resources/layout-w1920dp/ca_watch_level_layout.xml
+* res/layout-w1920dp/ca_work_time_layout.xml => app/src/main/resources/layout-w1920dp/ca_work_time_layout.xml
+* res/layout-w1920dp/cell_view.xml => app/src/main/resources/layout-w1920dp/cell_view.xml
+* res/layout-w1920dp/channelnum_textview.xml => app/src/main/resources/layout-w1920dp/channelnum_textview.xml
+* res/layout-w1920dp/dvb_ca_notify_layout.xml => app/src/main/resources/layout-w1920dp/dvb_ca_notify_layout.xml
+* res/layout-w1920dp/dvb_channelinfo_view.xml => app/src/main/resources/layout-w1920dp/dvb_channelinfo_view.xml
+* res/layout-w1920dp/dvb_main.xml => app/src/main/resources/layout-w1920dp/dvb_main.xml
+* res/layout-w1920dp/dvb_menu_list_item.xml => app/src/main/resources/layout-w1920dp/dvb_menu_list_item.xml
+* res/layout-w1920dp/dvb_mini_epg_channel_select.xml => app/src/main/resources/layout-w1920dp/dvb_mini_epg_channel_select.xml
+* res/layout-w1920dp/dvb_mini_epg_channel_select_center.xml => app/src/main/resources/layout-w1920dp/dvb_mini_epg_channel_select_center.xml
+* res/layout-w1920dp/dvb_mini_epg_info.xml => app/src/main/resources/layout-w1920dp/dvb_mini_epg_info.xml
+* res/layout-w1920dp/dvb_mini_epg_info_channel.xml => app/src/main/resources/layout-w1920dp/dvb_mini_epg_info_channel.xml
+* res/layout-w1920dp/dvb_mini_epg_info_sp.xml => app/src/main/resources/layout-w1920dp/dvb_mini_epg_info_sp.xml
+* res/layout-w1920dp/dvb_nochannel_notify.xml => app/src/main/resources/layout-w1920dp/dvb_nochannel_notify.xml
+* res/layout-w1920dp/dvb_setting_sound.xml => app/src/main/resources/layout-w1920dp/dvb_setting_sound.xml
+* res/layout-w1920dp/dvb_symbol_notify_layout.xml => app/src/main/resources/layout-w1920dp/dvb_symbol_notify_layout.xml
+* res/layout-w1920dp/dvb_volumechannel_audioindex_notify.xml => app/src/main/resources/layout-w1920dp/dvb_volumechannel_audioindex_notify.xml
+* res/layout-w1920dp/edit_dialog_layout.xml => app/src/main/resources/layout-w1920dp/edit_dialog_layout.xml
+* res/layout-w1920dp/email_delete_ask_dialog.xml => app/src/main/resources/layout-w1920dp/email_delete_ask_dialog.xml
+* res/layout-w1920dp/email_dialog.xml => app/src/main/resources/layout-w1920dp/email_dialog.xml
+* res/layout-w1920dp/email_listview_item.xml => app/src/main/resources/layout-w1920dp/email_listview_item.xml
+* res/layout-w1920dp/email_main.xml => app/src/main/resources/layout-w1920dp/email_main.xml
+* res/layout-w1920dp/epg_channel_item.xml => app/src/main/resources/layout-w1920dp/epg_channel_item.xml
+* res/layout-w1920dp/epg_channel_list_item.xml => app/src/main/resources/layout-w1920dp/epg_channel_list_item.xml
+* res/layout-w1920dp/epg_channel_list_view.xml => app/src/main/resources/layout-w1920dp/epg_channel_list_view.xml
+* res/layout-w1920dp/epg_guide.xml => app/src/main/resources/layout-w1920dp/epg_guide.xml
+* res/layout-w1920dp/epg_program_item.xml => app/src/main/resources/layout-w1920dp/epg_program_item.xml
+* res/layout-w1920dp/epg_program_list_item.xml => app/src/main/resources/layout-w1920dp/epg_program_list_item.xml
+* res/layout-w1920dp/epg_weeks.xml => app/src/main/resources/layout-w1920dp/epg_weeks.xml
+* res/layout-w1920dp/liveguide_layout.xml => app/src/main/resources/layout-w1920dp/liveguide_layout.xml
+* res/layout-w1920dp/menu.xml => app/src/main/resources/layout-w1920dp/menu.xml
+* res/layout-w1920dp/menu_channel_list.xml => app/src/main/resources/layout-w1920dp/menu_channel_list.xml
+* res/layout-w1920dp/menu_channel_list_item.xml => app/src/main/resources/layout-w1920dp/menu_channel_list_item.xml
+* res/layout-w1920dp/menu_favorite_list_layout.xml => app/src/main/resources/layout-w1920dp/menu_favorite_list_layout.xml
+* res/layout-w1920dp/menu_favorite_listitem.xml => app/src/main/resources/layout-w1920dp/menu_favorite_listitem.xml
+* res/layout-w1920dp/menu_program_guide.xml => app/src/main/resources/layout-w1920dp/menu_program_guide.xml
+* res/layout-w1920dp/menu_reservation_list.xml => app/src/main/resources/layout-w1920dp/menu_reservation_list.xml
+* res/layout-w1920dp/menu_setting.xml => app/src/main/resources/layout-w1920dp/menu_setting.xml
+* res/layout-w1920dp/menu_setting_sub.xml => app/src/main/resources/layout-w1920dp/menu_setting_sub.xml
+* res/layout-w1920dp/menu_system_info.xml => app/src/main/resources/layout-w1920dp/menu_system_info.xml
+* res/layout-w1920dp/menu_view.xml => app/src/main/resources/layout-w1920dp/menu_view.xml
+* res/layout-w1920dp/notify_dialog_layout.xml => app/src/main/resources/layout-w1920dp/notify_dialog_layout.xml
+* res/layout-w1920dp/order_dialog_layout.xml => app/src/main/resources/layout-w1920dp/order_dialog_layout.xml
+* res/layout-w1920dp/order_result_dialog_layout.xml => app/src/main/resources/layout-w1920dp/order_result_dialog_layout.xml
+* res/layout-w1920dp/pagerview_item.xml => app/src/main/resources/layout-w1920dp/pagerview_item.xml
+* res/layout-w1920dp/program_reserves_alert.xml => app/src/main/resources/layout-w1920dp/program_reserves_alert.xml
+* res/layout-w1920dp/program_reserves_list_item.xml => app/src/main/resources/layout-w1920dp/program_reserves_list_item.xml
+* res/layout-w1920dp/programguide_topmenu.xml => app/src/main/resources/layout-w1920dp/programguide_topmenu.xml
+* res/layout-w1920dp/search_advanced_option_layout.xml => app/src/main/resources/layout-w1920dp/search_advanced_option_layout.xml
+* res/layout-w1920dp/search_all_menu_layout.xml => app/src/main/resources/layout-w1920dp/search_all_menu_layout.xml
+* res/layout-w1920dp/search_down_list_item.xml => app/src/main/resources/layout-w1920dp/search_down_list_item.xml
+* res/layout-w1920dp/search_down_list_layout.xml => app/src/main/resources/layout-w1920dp/search_down_list_layout.xml
+* res/layout-w1920dp/search_fast_search_layout.xml => app/src/main/resources/layout-w1920dp/search_fast_search_layout.xml
+* res/layout-w1920dp/search_fast_search_list_item.xml => app/src/main/resources/layout-w1920dp/search_fast_search_list_item.xml
+* res/layout-w1920dp/search_manual_search_layout.xml => app/src/main/resources/layout-w1920dp/search_manual_search_layout.xml
+* res/layout-w1920dp/search_menu_layout.xml => app/src/main/resources/layout-w1920dp/search_menu_layout.xml
+* res/layout-w1920dp/spinner_item.xml => app/src/main/resources/layout-w1920dp/spinner_item.xml
+* res/layout-w1920dp/spinner_layout.xml => app/src/main/resources/layout-w1920dp/spinner_layout.xml
+* res/layout-w1920dp/test_activity.xml => app/src/main/resources/layout-w1920dp/test_activity.xml
+* res/values-w1280dp/dimens.xml => app/src/main/resources/values-w1280dp/dimens.xml
+* res/values-w1920dp/dimens.xml => app/src/main/resources/values-w1920dp/dimens.xml
+* res/values-zh/arrays.xml => app/src/main/resources/values-zh/arrays.xml
+* res/values-zh/strings.xml => app/src/main/resources/values-zh/strings.xml
+* res/values/arrays.xml => app/src/main/resources/values/arrays.xml
+* res/values/attrs.xml => app/src/main/resources/values/attrs.xml
+* res/values/color.xml => app/src/main/resources/values/color.xml
+* res/values/dimens.xml => app/src/main/resources/values/dimens.xml
+* res/values/strings.xml => app/src/main/resources/values/strings.xml
+* res/values/styles.xml => app/src/main/resources/values/styles.xml
+* src/ => app/src/main/java/
+* src/com/joysee/adtv/aidl/ISearchService.aidl => app/src/main/aidl/com/joysee/adtv/aidl/ISearchService.aidl
+* src/com/joysee/adtv/aidl/OnSearchEndListener.aidl => app/src/main/aidl/com/joysee/adtv/aidl/OnSearchEndListener.aidl
+* src/com/joysee/adtv/aidl/OnSearchNewTransponderListener.aidl => app/src/main/aidl/com/joysee/adtv/aidl/OnSearchNewTransponderListener.aidl
+* src/com/joysee/adtv/aidl/OnSearchProgressChangeListener.aidl => app/src/main/aidl/com/joysee/adtv/aidl/OnSearchProgressChangeListener.aidl
+* src/com/joysee/adtv/aidl/OnSearchReceivedNewChannelsListener.aidl => app/src/main/aidl/com/joysee/adtv/aidl/OnSearchReceivedNewChannelsListener.aidl
+* src/com/joysee/adtv/aidl/OnSearchTunerSignalStateListener.aidl => app/src/main/aidl/com/joysee/adtv/aidl/OnSearchTunerSignalStateListener.aidl
+* src/com/joysee/adtv/aidl/ca/ICaSettingService.aidl => app/src/main/aidl/com/joysee/adtv/aidl/ca/ICaSettingService.aidl
+* src/com/joysee/adtv/aidl/email/IEmailService.aidl => app/src/main/aidl/com/joysee/adtv/aidl/email/IEmailService.aidl
+* src/com/joysee/adtv/logic/bean/DvbService.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/DvbService.aidl
+* src/com/joysee/adtv/logic/bean/EmailHead.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/EmailHead.aidl
+* src/com/joysee/adtv/logic/bean/LicenseInfo.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/LicenseInfo.aidl
+* src/com/joysee/adtv/logic/bean/ServiceType.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/ServiceType.aidl
+* src/com/joysee/adtv/logic/bean/Transponder.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/Transponder.aidl
+* src/com/joysee/adtv/logic/bean/TunerSignal.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/TunerSignal.aidl
+* src/com/joysee/adtv/logic/bean/WatchTime.aidl => app/src/main/aidl/com/joysee/adtv/logic/bean/WatchTime.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

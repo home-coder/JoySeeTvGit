@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.joysee.adtv.ui.MenuReservationList xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:visibility="visible"
+            android:background="#5FFFFFFF" />
+
+        <ListView
+            android:id="@+id/menu_reservation_listview"
+            android:layout_width="fill_parent"
+            android:layout_height="435dp"
+            android:background="@color/transparent"
+            android:dividerHeight="1dp"
+            android:divider="#33FFFFFF"
+            android:fadingEdge="none"
+            android:focusable="true"
+            android:scrollbars="none"
+            android:listSelector="@color/transparent"
+             >
+           <!--  android:scrollbarThumbVertical="@drawable/scroll_front"
+            android:scrollbarTrackVertical="@drawable/scroll_bg" -->
+        </ListView>
+        <!-- android:listSelector="@drawable/program_reserves_list_selector" -->
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivFocus"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:background="@drawable/focus_reserve"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/progaram_reserve_no_channel_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:focusable="true"
+        android:text="@string/program_reserve_no_program_text"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+    
+    <LinearLayout
+        android:layout_marginTop="490dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_marginLeft="17dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/menu_back" />
+
+        <TextView
+            android:layout_marginLeft="13dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/back"
+            android:textSize="27sp" />
+        
+        <ImageView
+            android:layout_width="41dp"
+            android:layout_height="41dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/menu_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/exit_menu"
+            android:textColor="@color/white"
+            android:textSize="27sp" />
+    </LinearLayout>
+
+</com.joysee.adtv.ui.MenuReservationList>
