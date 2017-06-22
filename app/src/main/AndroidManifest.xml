@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.joysee.adtv"
     android:versionCode="20130729"
-    android:versionName="20130729"
-    android:sharedUserId="android.uid.system" >
+    android:versionName="20130729">
+ <!--   android:sharedUserId="android.uid.system" >-->
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -33,7 +33,7 @@
             android:theme="@style/Theme.Joysee.DVB" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
              <intent-filter>
                 <action android:name="com.joysee.dvb.main" />
